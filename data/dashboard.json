@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T22:45:10.796040+00:00",
+  "last_updated": "2026-11-07T23:43:19.582701+00:00",
   "countries": [
     {
       "name": "England",
@@ -294,10 +294,10 @@
       "published": "Sat, 07 Nov 2026 21:28:52 GMT"
     },
     {
-      "title": "FA Cup roundup: non-league Kidderminster stun Doncaster as Exeter upset Huddersfield",
+      "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
       "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
       "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 18:15:34 GMT"
+      "published": "Sat, 07 Nov 2026 23:11:27 GMT"
     },
     {
       "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
@@ -592,6 +592,48 @@
       "url": "https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words",
       "source": "The Guardian Football",
       "published": "Thu, 05 Nov 2026 22:30:35 GMT"
+    },
+    {
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:00:56 GMT"
+    },
+    {
+      "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 22:44:20 GMT"
+    },
+    {
+      "title": "York score after 10 seconds against Northampton following unique kick-off",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 23:38:38 GMT"
+    },
+    {
+      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 23:05:36 GMT"
+    },
+    {
+      "title": "Highlights: Exeter shock League One leaders Huddersfield",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 23:08:32 GMT"
+    },
+    {
+      "title": "Pearce double fires York City past Northampton Town",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 23:18:46 GMT"
+    },
+    {
+      "title": "Non-league Barrow beat League Two Gillingham with injury-time winner",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 23:15:30 GMT"
     }
   ]
 }
