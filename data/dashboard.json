@@ -1,0 +1,68 @@
+{
+  "last_updated": null,
+  "countries": [
+    {
+      "name": "England",
+      "flag": "🏴",
+      "league": "Premier League",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "league": "La Liga",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "league": "Primeira Liga",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "league": "Bundesliga",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "league": "Serie A",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "league": "Ligue 1",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "league": "Série A",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "league": "Primera División",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "league": "J1 League",
+      "league_status": "needs_review"
+    },
+    {
+      "name": "United States",
+      "flag": "🇺🇸",
+      "league": "MLS",
+      "league_status": "needs_review"
+    }
+  ],
+  "matches": [],
+  "standings": [],
+  "news": []
+}
