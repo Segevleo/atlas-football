@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T19:48:54.922561+00:00",
+  "last_updated": "2026-11-07T20:46:13.300954+00:00",
   "countries": [
     {
       "name": "England",
@@ -66,7 +66,7 @@
   "standings": [],
   "news": [
     {
-      "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
+      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 07 Nov 2026 16:35:26 GMT"
@@ -460,6 +460,54 @@
       "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sat, 07 Nov 2026 19:30:43 GMT"
+    },
+    {
+      "title": "Delap double inspires Forest to stunning win over Man City",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 20:02:25 GMT"
+    },
+    {
+      "title": "Arsenal beat Hull to extend lead at top of the table",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 19:59:31 GMT"
+    },
+    {
+      "title": "Leeds beat Spurs to end five-game winless run",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 19:59:34 GMT"
+    },
+    {
+      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 19:59:37 GMT"
+    },
+    {
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 06 Nov 2026 22:30:12 GMT"
+    },
+    {
+      "title": "Maresca looking to understand Man City's 'lack of intensity'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 20:42:23 GMT"
+    },
+    {
+      "title": "Newport cup tie halted by alleged homophobic chants",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 19:47:03 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
