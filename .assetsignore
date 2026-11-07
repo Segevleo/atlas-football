@@ -1,0 +1,16 @@
+.git
+.github
+.gitignore
+.assetsignore
+wrangler.jsonc
+wrangler.toml
+collector.py
+sources.json
+DEPLOY.md
+README.md
+node_modules
+*.py
+*.md
+*.toml
+*.jsonc
+!data/dashboard.json
