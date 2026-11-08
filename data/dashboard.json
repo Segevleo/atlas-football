@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T02:14:18.273634+00:00",
+  "last_updated": "2026-11-08T03:00:33.005539+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "National League Carlisle upset League Two leaders Salford",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:29:20 GMT"
-    },
     {
       "title": "Powell and Phillips star as Bradford put seven past Marine",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 07 Nov 2026 17:00:38 GMT"
+    },
+    {
+      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 17:23:20 GMT"
     }
   ]
 }
