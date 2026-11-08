@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T23:43:19.582701+00:00",
+  "last_updated": "2026-11-08T01:14:10.316317+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 16:35:26 GMT"
-    },
-    {
-      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 17:00:38 GMT"
-    },
-    {
-      "title": "Title race hots up before Chelsea-Man City showdown",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:27:46 GMT"
-    },
     {
       "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
       "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
@@ -634,6 +616,54 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 07 Nov 2026 23:15:30 GMT"
+    },
+    {
+      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:17:56 GMT"
+    },
+    {
+      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:13:34 GMT"
+    },
+    {
+      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:00:09 GMT"
+    },
+    {
+      "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:07:11 GMT"
+    },
+    {
+      "title": "Forest win over Man City 'a turning point' - Murphy",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:00:14 GMT"
+    },
+    {
+      "title": "Was Leeds' Bogle lucky to escape red card?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:00:26 GMT"
+    },
+    {
+      "title": "Charlie Savage shines for Reading to beat dad Robbie's Peterborough",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 00:12:24 GMT"
+    },
+    {
+      "title": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
+      "url": "https://www.theguardian.com/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 21:17:41 GMT"
     }
   ]
 }
