@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T08:10:05.155355+00:00",
+  "last_updated": "2026-11-08T08:58:02.647162+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Salisbury put six past Sholing to advance to second round",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 17:39:21 GMT"
-    },
-    {
-      "title": "Highlights: Burton ease past eighth-tier AFC Rushden & Diamonds",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel01dkdno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:02:39 GMT"
-    },
-    {
-      "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 17:30:36 GMT"
-    },
     {
       "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
       "source": "The Guardian Football",
       "published": "Wed, 04 Nov 2026 13:00:11 GMT"
+    },
+    {
+      "title": "Premier League buildup, FA Cup first round, WSL and more – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 08:45:39 GMT"
+    },
+    {
+      "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
+      "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 08:00:35 GMT"
+    },
+    {
+      "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day",
+      "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 03:31:47 GMT"
     }
   ]
 }
