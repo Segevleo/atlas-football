@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T15:45:06.608502+00:00",
+  "last_updated": "2026-11-08T16:47:14.061446+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Nottingham Forest v Manchester City: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 18:52:24 GMT"
-    },
-    {
-      "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
-      "url": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 17:02:45 GMT"
-    },
-    {
-      "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
-      "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 17:00:54 GMT"
-    },
-    {
-      "title": "Okafor seals Leeds win but Tottenham complain to Pro Ref over Bogle tackle on Tel",
-      "url": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 14:34:21 GMT"
-    },
-    {
-      "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
-      "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 15:11:59 GMT"
-    },
-    {
-      "title": "Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down",
-      "url": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 19:20:34 GMT"
-    },
     {
       "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
       "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
@@ -663,7 +627,43 @@
       "title": "Manchester United v Aston Villa: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 15:26:29 GMT"
+      "published": "Sun, 08 Nov 2026 16:34:25 GMT"
+    },
+    {
+      "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 16:13:36 GMT"
+    },
+    {
+      "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 16:04:18 GMT"
+    },
+    {
+      "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
+      "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 16:16:34 GMT"
+    },
+    {
+      "title": "Alexander Isak tops off goal trio for Liverpool as late penalty offers little for Crystal Palace",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 16:16:18 GMT"
+    },
+    {
+      "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
+      "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 16:17:32 GMT"
+    },
+    {
+      "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
+      "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 16:14:31 GMT"
     }
   ]
 }
