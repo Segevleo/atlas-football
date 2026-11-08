@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T01:14:10.316317+00:00",
+  "last_updated": "2026-11-08T02:14:18.273634+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 17:23:20 GMT"
-    },
-    {
-      "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:11:12 GMT"
-    },
-    {
-      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:35:43 GMT"
-    },
     {
       "title": "National League Carlisle upset League Two leaders Salford",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league",
       "source": "The Guardian Football",
       "published": "Sat, 07 Nov 2026 21:17:41 GMT"
+    },
+    {
+      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 16:35:26 GMT"
+    },
+    {
+      "title": "Title race hots up before Chelsea-Man City showdown",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 18:27:46 GMT"
+    },
+    {
+      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 17:00:38 GMT"
     }
   ]
 }
