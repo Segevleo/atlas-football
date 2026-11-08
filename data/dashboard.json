@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T16:47:14.061446+00:00",
+  "last_updated": "2026-11-08T17:44:26.850807+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
-      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 22:30:08 GMT"
-    },
-    {
-      "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
-      "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 21:28:52 GMT"
-    },
-    {
-      "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
-      "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 23:11:27 GMT"
-    },
-    {
-      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 12:00:13 GMT"
-    },
-    {
-      "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 08:00:05 GMT"
-    },
     {
       "title": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
       "url": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us",
@@ -627,10 +597,10 @@
       "title": "Manchester United v Aston Villa: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 16:34:25 GMT"
+      "published": "Sun, 08 Nov 2026 17:30:53 GMT"
     },
     {
-      "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
+      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
       "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 16:13:36 GMT"
@@ -648,7 +618,7 @@
       "published": "Sun, 08 Nov 2026 16:16:34 GMT"
     },
     {
-      "title": "Alexander Isak tops off goal trio for Liverpool as late penalty offers little for Crystal Palace",
+      "title": "Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace",
       "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 16:16:18 GMT"
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 16:14:31 GMT"
+    },
+    {
+      "title": "Fan injured after falling through hole in stand",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 16:53:37 GMT"
+    },
+    {
+      "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
+      "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 15:11:59 GMT"
+    },
+    {
+      "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+      "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 17:00:54 GMT"
+    },
+    {
+      "title": "Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down",
+      "url": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 19:20:34 GMT"
+    },
+    {
+      "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
+      "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 17:10:11 GMT"
     }
   ]
 }
