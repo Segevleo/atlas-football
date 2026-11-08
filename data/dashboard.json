@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T21:45:54.626437+00:00",
+  "last_updated": "2026-11-08T22:45:30.381095+00:00",
   "countries": [
     {
       "name": "England",
@@ -66,42 +66,6 @@
   "standings": [],
   "news": [
     {
-      "title": "NWSL playoffs: Cooper’s extra-time penalty sends Kansas City through as Utah stun San Diego",
-      "url": "https://www.theguardian.com/football/2026/nov/07/nwsl-playoffs-kansas-city-current-angel-city-utah-royals-san-diego-wave",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 20:40:37 GMT"
-    },
-    {
-      "title": "Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l00592bk?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 21:50:21 GMT"
-    },
-    {
-      "title": "Glasner glee and Delap double - win could be lift-off for Forest",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 21:42:59 GMT"
-    },
-    {
-      "title": "Liverpool considering Verbruggen move - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 22:05:40 GMT"
-    },
-    {
-      "title": "Port Vale defeat non-league Scunthorpe in FA Cup",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm78p29vp706o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 21:53:36 GMT"
-    },
-    {
-      "title": "Randall's last-gasp winner sends Chesterfield past Yeovil in seven-goal thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cky937j8vxxeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 22:35:13 GMT"
-    },
-    {
       "title": "Adeeko's extra-time winner sends Fleetwood Town past Rochdale",
       "url": "https://www.bbc.co.uk/sport/football/videos/cr5yn1xlzv27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
@@ -114,7 +78,7 @@
       "published": "Sat, 07 Nov 2026 22:19:46 GMT"
     },
     {
-      "title": "Scottish roundup: Flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
+      "title": "Scottish roundup: flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
       "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 19:54:56 GMT"
@@ -664,6 +628,42 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/diogo-dalot-manchester-united-old-trafford-aston-villa",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 21:24:44 GMT"
+    },
+    {
+      "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 21:50:05 GMT"
+    },
+    {
+      "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 22:14:38 GMT"
+    },
+    {
+      "title": "Bundesliga",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 21:45:31 GMT"
+    },
+    {
+      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 22:01:57 GMT"
+    },
+    {
+      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 22:12:58 GMT"
+    },
+    {
+      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 22:27:50 GMT"
     }
   ]
 }
