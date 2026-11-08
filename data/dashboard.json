@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T07:10:47.448865+00:00",
+  "last_updated": "2026-11-08T08:10:05.155355+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "I left Man City for my mental wellbeing - Trafford",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 07:16:37 GMT"
-    },
-    {
-      "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:32:30 GMT"
-    },
-    {
-      "title": "Bates double earns Dover upset win over Wealdstone",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:49:14 GMT"
-    },
-    {
-      "title": "Chelsea surrender top spot after home draw with Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:35:49 GMT"
-    },
     {
       "title": "Salisbury put six past Sholing to advance to second round",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +640,30 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 06:47:58 GMT"
+    },
+    {
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 07:30:01 GMT"
+    },
+    {
+      "title": "Messi makes history with MLS Golden Boot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 07:23:50 GMT"
+    },
+    {
+      "title": "Argentina set to go to Cas after Fifa rejects appeals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 07 Nov 2026 18:33:18 GMT"
+    },
+    {
+      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
+      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
+      "source": "The Guardian Football",
+      "published": "Wed, 04 Nov 2026 13:00:11 GMT"
     }
   ]
 }
