@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T14:49:12.873658+00:00",
+  "last_updated": "2026-11-08T15:45:06.608502+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "What new Kane deal means for England and the Premier League record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 05 Nov 2026 14:44:34 GMT"
-    },
-    {
-      "title": "Meet the people set for key role in deciding Man City fate",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 05 Nov 2026 06:26:11 GMT"
-    },
-    {
-      "title": "How to follow the Premier League on the BBC this weekend",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 05 Nov 2026 12:14:33 GMT"
-    },
-    {
-      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 04 Nov 2026 16:12:46 GMT"
-    },
     {
       "title": "Nottingham Forest v Manchester City: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
@@ -657,13 +633,37 @@
       "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 14:28:26 GMT"
+      "published": "Sun, 08 Nov 2026 15:29:42 GMT"
     },
     {
       "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
       "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 14:13:00 GMT"
+    },
+    {
+      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 15:31:43 GMT"
+    },
+    {
+      "title": "England await Guehi scan results after injury concern",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 15:03:01 GMT"
+    },
+    {
+      "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 14:41:04 GMT"
+    },
+    {
+      "title": "Manchester United v Aston Villa: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 15:26:29 GMT"
     }
   ]
 }
