@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T17:44:26.850807+00:00",
+  "last_updated": "2026-11-08T18:53:35.847510+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,60 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
-      "url": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 20:33:58 GMT"
-    },
-    {
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": "The Guardian Football",
-      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
-    },
-    {
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": "The Guardian Football",
-      "published": "Mon, 15 May 2017 11:00:43 GMT"
-    },
-    {
-      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
-    },
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
-    {
-      "title": "Thierno Barry double fires Everton to comeback win against Coventry",
-      "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 22:03:48 GMT"
-    },
-    {
-      "title": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
-      "url": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 19:00:50 GMT"
-    },
-    {
-      "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
-      "url": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 10:38:34 GMT"
-    },
-    {
-      "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
-      "url": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 03:37:32 GMT"
-    },
     {
       "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
       "url": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
@@ -597,7 +543,7 @@
       "title": "Manchester United v Aston Villa: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 17:30:53 GMT"
+      "published": "Sun, 08 Nov 2026 18:34:06 GMT"
     },
     {
       "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
@@ -664,6 +610,60 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 17:10:11 GMT"
+    },
+    {
+      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 18:46:45 GMT"
+    },
+    {
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 18:20:56 GMT"
+    },
+    {
+      "title": "London City thump Birmingham to close gap on second",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 17:06:21 GMT"
+    },
+    {
+      "title": "10-man Stockport come from behind to survive huge scare at Cray",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 17:39:15 GMT"
+    },
+    {
+      "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 17:45:27 GMT"
+    },
+    {
+      "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 17:00:00 GMT"
+    },
+    {
+      "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+      "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 17:41:47 GMT"
+    },
+    {
+      "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 08:00:05 GMT"
+    },
+    {
+      "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+      "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 21:28:52 GMT"
     }
   ]
 }
