@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T20:46:22.408144+00:00",
+  "last_updated": "2026-11-08T21:45:54.626437+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Maresca's dream start turns into nightmare as title hopes hit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 20:54:12 GMT"
-    },
-    {
-      "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 21:25:19 GMT"
-    },
-    {
-      "title": "McGeehan hat-trick powers Barnsley to 7-2 win over Aldershot",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 21:22:55 GMT"
-    },
-    {
-      "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 20:00:19 GMT"
-    },
     {
       "title": "NWSL playoffs: Cooper’s extra-time penalty sends Kansas City through as Utah stun San Diego",
       "url": "https://www.theguardian.com/football/2026/nov/07/nwsl-playoffs-kansas-city-current-angel-city-utah-royals-san-diego-wave",
@@ -618,7 +594,7 @@
       "published": "Sun, 08 Nov 2026 19:58:31 GMT"
     },
     {
-      "title": "Bournemouth continue winning streak with Ipswich win",
+      "title": "Bournemouth beat Ipswich to extend winning streak",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 19:59:53 GMT"
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
       "source": "The Guardian Football",
       "published": "Thu, 05 Nov 2026 07:30:56 GMT"
+    },
+    {
+      "title": "Palace consider replacing Sage, with Frank among contenders",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 20:49:40 GMT"
+    },
+    {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 20:18:01 GMT"
+    },
+    {
+      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 21:08:44 GMT"
+    },
+    {
+      "title": "Dalot’s muddled performances are just another symptom of Old Trafford chaos | Will Unwin",
+      "url": "https://www.theguardian.com/football/2026/nov/08/diogo-dalot-manchester-united-old-trafford-aston-villa",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 21:24:44 GMT"
     }
   ]
 }
