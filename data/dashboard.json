@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T12:59:17.102780+00:00",
+  "last_updated": "2026-11-08T13:56:18.444208+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 06:53:35 GMT"
-    },
-    {
-      "title": "How to follow the FA Cup on the BBC this weekend",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 06 Nov 2026 07:47:46 GMT"
-    },
     {
       "title": "Sutton's predictions v Football Manager, the game",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
@@ -657,13 +645,25 @@
       "title": "Liverpool v Arsenal: Women’s Super League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 12:43:40 GMT"
+      "published": "Sun, 08 Nov 2026 13:49:27 GMT"
     },
     {
       "title": "Last season difficult with injury and miscarriage - Muniz",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 11:56:01 GMT"
+    },
+    {
+      "title": "Shock changes & key results - Wrexham's seismic week",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 13:19:22 GMT"
+    },
+    {
+      "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 13:37:06 GMT"
     }
   ]
 }
