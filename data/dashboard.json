@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T13:56:18.444208+00:00",
+  "last_updated": "2026-11-08T14:49:12.873658+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sutton's predictions v Football Manager, the game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 05 Nov 2026 18:02:15 GMT"
-    },
     {
       "title": "What new Kane deal means for England and the Premier League record",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
@@ -663,7 +657,13 @@
       "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 13:37:06 GMT"
+      "published": "Sun, 08 Nov 2026 14:28:26 GMT"
+    },
+    {
+      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 14:13:00 GMT"
     }
   ]
 }
