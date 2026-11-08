@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T22:45:30.381095+00:00",
+  "last_updated": "2026-11-08T23:44:20.230610+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Adeeko's extra-time winner sends Fleetwood Town past Rochdale",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr5yn1xlzv27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 22:08:06 GMT"
-    },
-    {
-      "title": "Rotherham end 10-game losing run with FA Cup win over Bromley",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm93zr7lnqvko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 22:19:46 GMT"
-    },
     {
       "title": "Scottish roundup: flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
       "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
@@ -630,7 +618,7 @@
       "published": "Sun, 08 Nov 2026 21:24:44 GMT"
     },
     {
-      "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
       "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 21:50:05 GMT"
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 22:27:50 GMT"
+    },
+    {
+      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 23:41:30 GMT"
+    },
+    {
+      "title": "NWSL playoffs: Cooper’s extra-time penalty sends Kansas City through as Utah stun San Diego",
+      "url": "https://www.theguardian.com/football/2026/nov/07/nwsl-playoffs-kansas-city-current-angel-city-utah-royals-san-diego-wave",
+      "source": "The Guardian Football",
+      "published": "Sat, 07 Nov 2026 20:40:37 GMT"
     }
   ]
 }
