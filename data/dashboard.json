@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T09:55:31.004654+00:00",
+  "last_updated": "2026-11-08T10:51:32.658420+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 06 Nov 2026 21:08:04 GMT"
-    },
-    {
-      "title": "My dream is to win Ballon d'Or - Gabriel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 12:25:14 GMT"
-    },
-    {
-      "title": "National League South game abandoned after player collapses in warm-up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 15:55:54 GMT"
-    },
-    {
-      "title": "Scotland lose Welsh and call up Porteous",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 13:57:46 GMT"
-    },
     {
       "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
@@ -651,7 +627,7 @@
       "title": "Premier League buildup, FA Cup first round, WSL and more – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 09:38:34 GMT"
+      "published": "Sun, 08 Nov 2026 10:31:31 GMT"
     },
     {
       "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 03:31:47 GMT"
+    },
+    {
+      "title": "Is there something missing despite Rangers' impressive form?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 10:10:27 GMT"
+    },
+    {
+      "title": "Raya, Pickford and Wales' search for a new keeper",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 09:57:58 GMT"
+    },
+    {
+      "title": "Watch: Saturday's Scottish Premiership highlights",
+      "url": "https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 10:29:54 GMT"
+    },
+    {
+      "title": "John Aloisi’s Chengdu choke to blow title chances on final day of Chinese season",
+      "url": "https://www.theguardian.com/football/2026/nov/08/john-aloisi-chengdu-choke-chinese-super-league-final-day-of-season",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 10:10:43 GMT"
     }
   ]
 }
