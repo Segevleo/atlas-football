@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T01:17:34.619317+00:00",
+  "last_updated": "2026-11-09T02:56:41.374660+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "York score after 10 seconds against Northampton following unique kick-off",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 23:38:38 GMT"
-    },
     {
       "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
       "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 21:40:36 GMT"
+    },
+    {
+      "title": "Scottish roundup: flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
+      "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 19:54:56 GMT"
     }
   ]
 }
