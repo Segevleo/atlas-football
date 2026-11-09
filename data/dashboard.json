@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T20:59:13.616290+00:00",
+  "last_updated": "2026-11-09T21:55:02.611623+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down",
-      "url": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 19:20:34 GMT"
-    },
-    {
-      "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
-      "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 17:10:11 GMT"
-    },
-    {
-      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 18:46:45 GMT"
-    },
-    {
-      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 18:20:56 GMT"
-    },
-    {
-      "title": "London City thump Birmingham to close gap on second",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 17:06:21 GMT"
-    },
     {
       "title": "10-man Stockport come from behind to survive huge scare at Cray",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
@@ -540,10 +510,10 @@
       "published": "Mon, 09 Nov 2026 16:25:33 GMT"
     },
     {
-      "title": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
+      "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
       "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
       "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 16:21:31 GMT"
+      "published": "Mon, 09 Nov 2026 21:17:45 GMT"
     },
     {
       "title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
@@ -648,10 +618,10 @@
       "published": "Mon, 09 Nov 2026 20:00:17 GMT"
     },
     {
-      "title": "NWSL semi-final scheduling crisis: Washington Spirit keep Audi Field; Gotham move to Icahn",
+      "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
       "url": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
       "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 20:36:16 GMT"
+      "published": "Mon, 09 Nov 2026 20:51:37 GMT"
     },
     {
       "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 16:16:34 GMT"
+    },
+    {
+      "title": "Atletico target Zubimendi move - Tuesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 21:13:37 GMT"
+    },
+    {
+      "title": "NI's O'Neill ruled out of Nations League matches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 21:44:23 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 21:33:00 GMT"
+    },
+    {
+      "title": "Manchester’s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 21:40:16 GMT"
+    },
+    {
+      "title": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
+      "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 16:14:31 GMT"
     }
   ]
 }
