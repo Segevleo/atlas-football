@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T15:03:46.666857+00:00",
+  "last_updated": "2026-11-09T16:11:40.505288+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
-      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
-      "source": "The Guardian Football",
-      "published": "Wed, 04 Nov 2026 13:00:11 GMT"
-    },
-    {
-      "title": "Premier League buildup, FA Cup first round, WSL and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 10:31:31 GMT"
-    },
     {
       "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
       "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
       "source": "The Guardian Football",
       "published": "Mon, 09 Nov 2026 13:37:45 GMT"
+    },
+    {
+      "title": "Kettering Town 'cannot hide' from racism problem",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr0j0jnln3j0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 15:10:38 GMT"
+    },
+    {
+      "title": "Every goal from the Women's Super League - matchweek nine",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 15:25:55 GMT"
     }
   ]
 }
