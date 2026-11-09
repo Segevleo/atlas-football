@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T17:18:36.297153+00:00",
+  "last_updated": "2026-11-09T19:02:38.022498+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,54 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Last season difficult with injury and miscarriage - Muniz",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 11:56:01 GMT"
-    },
-    {
-      "title": "A shock departure and key results - inside Wrexham's seismic week",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 13:19:22 GMT"
-    },
-    {
-      "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 15:29:42 GMT"
-    },
-    {
-      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 14:13:00 GMT"
-    },
-    {
-      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 15:31:43 GMT"
-    },
-    {
-      "title": "Burn replaces injured Guehi in England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 12:06:19 GMT"
-    },
-    {
-      "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 14:41:04 GMT"
-    },
-    {
-      "title": "Manchester United v Aston Villa: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 18:34:06 GMT"
-    },
     {
       "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
       "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +616,54 @@
       "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
       "source": "The Guardian Football",
       "published": "Wed, 04 Nov 2026 08:00:28 GMT"
+    },
+    {
+      "title": "Man Utd yet to make decision on Carrick's future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 17:49:05 GMT"
+    },
+    {
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 17:30:23 GMT"
+    },
+    {
+      "title": "Listen to Monday Night Club",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 21:00:00 GMT"
+    },
+    {
+      "title": "Wilson eyeing survival step as Wales tackle Norway",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 17:21:28 GMT"
+    },
+    {
+      "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly – video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 13:29:14 GMT"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
