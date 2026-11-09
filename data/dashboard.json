@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T19:02:38.022498+00:00",
+  "last_updated": "2026-11-09T20:01:41.262661+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 16:13:36 GMT"
-    },
-    {
-      "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 16:04:18 GMT"
-    },
-    {
-      "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
-      "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 16:16:34 GMT"
-    },
-    {
-      "title": "Wirtz provides quality as Liverpool leave Crystal Palace propping up table",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 16:16:18 GMT"
-    },
-    {
-      "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
-      "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 16:17:32 GMT"
-    },
     {
       "title": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
       "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 19:33:28 GMT"
+    },
+    {
+      "title": "People don't know full story behind England exile - White",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 19:00:10 GMT"
+    },
+    {
+      "title": "Burn replaces injured Guehi in England squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 12:06:19 GMT"
+    },
+    {
+      "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
+      "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 17:10:00 GMT"
+    },
+    {
+      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 14:13:00 GMT"
     }
   ]
 }
