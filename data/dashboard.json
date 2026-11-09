@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T06:21:01.858465+00:00",
+  "last_updated": "2026-11-09T08:34:08.656688+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 23:05:36 GMT"
-    },
-    {
-      "title": "Highlights: Exeter shock League One leaders Huddersfield",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 23:08:32 GMT"
-    },
-    {
-      "title": "Pearce double fires York City past Northampton Town",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 23:18:46 GMT"
-    },
-    {
-      "title": "Non-league Barrow beat League Two Gillingham with injury-time winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 23:15:30 GMT"
-    },
-    {
-      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 00:17:56 GMT"
-    },
     {
       "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
       "source": "The Guardian Football",
       "published": "Sun, 08 Nov 2026 19:54:56 GMT"
+    },
+    {
+      "title": "Dutch match postponed after fans block team bus",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 08:00:07 GMT"
+    },
+    {
+      "title": "Fishlock retires after record-breaking career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z8401zz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 06:32:11 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 06:25:16 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plyc8k?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "url": "https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 08:00:04 GMT"
     }
   ]
 }
