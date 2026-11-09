@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T22:54:25.580541+00:00",
+  "last_updated": "2026-11-09T23:48:09.038650+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 08:00:05 GMT"
-    },
-    {
-      "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
-      "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 21:28:52 GMT"
-    },
     {
       "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
@@ -645,7 +633,7 @@
       "title": "Man Utd expected to sack head coach Carrick",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 22:46:43 GMT"
+      "published": "Mon, 09 Nov 2026 23:13:31 GMT"
     },
     {
       "title": "Brady ends association with Birmingham City",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
       "source": "The Guardian Football",
       "published": "Mon, 09 Nov 2026 22:30:20 GMT"
+    },
+    {
+      "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
+      "url": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 23:30:38 GMT"
+    },
+    {
+      "title": "CF Montreal are for sale: What it means, how much it could cost, and what’s next for the MLS club",
+      "url": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 23:18:47 GMT"
     }
   ]
 }
