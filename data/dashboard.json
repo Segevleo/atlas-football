@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T13:23:06.566009+00:00",
+  "last_updated": "2026-11-09T15:03:46.666857+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,48 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 17:23:20 GMT"
-    },
-    {
-      "title": "The oldest club in London making FA Cup history",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 06:28:56 GMT"
-    },
-    {
-      "title": "Why unique Brighton defence is so tricky to unpick",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 06:41:37 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 06:47:58 GMT"
-    },
-    {
-      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 07:30:01 GMT"
-    },
-    {
-      "title": "Messi makes history with MLS Golden Boot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 07:23:50 GMT"
-    },
-    {
-      "title": "Argentina set to go to Cas after Fifa rejects appeals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 07 Nov 2026 18:33:18 GMT"
-    },
     {
       "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
       "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
@@ -664,6 +622,48 @@
       "url": "https://www.theguardian.com/football/2026/nov/05/terry-butcher-ipswich-rangers-england-defender-post-questions",
       "source": "The Guardian Football",
       "published": "Thu, 05 Nov 2026 11:48:23 GMT"
+    },
+    {
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 14:34:19 GMT"
+    },
+    {
+      "title": "Bronze named in World 11 for record ninth time",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 14:55:32 GMT"
+    },
+    {
+      "title": "When is the FA Cup second round draw?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wydypkgdjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 10:54:10 GMT"
+    },
+    {
+      "title": "Newport round on 'unacceptable' fan behaviour",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1g0zkgy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 14:16:18 GMT"
+    },
+    {
+      "title": "Felix Nmecha’s faith is forcing Borussia Dortmund into an uncomfortable debate",
+      "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 14:10:43 GMT"
+    },
+    {
+      "title": "That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life",
+      "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 14:18:45 GMT"
+    },
+    {
+      "title": "Lens were humiliated by Como. The pain continued against Marseille",
+      "url": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 13:37:45 GMT"
     }
   ]
 }
