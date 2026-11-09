@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T08:34:08.656688+00:00",
+  "last_updated": "2026-11-09T10:07:53.737618+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 00:13:34 GMT"
-    },
     {
       "title": "Arsenal should have been awarded penalty against Hull - Cann",
       "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action",
       "source": "The Guardian Football",
       "published": "Mon, 09 Nov 2026 08:00:04 GMT"
+    },
+    {
+      "title": "SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6x292y37g59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 08:00:34 GMT"
     }
   ]
 }
