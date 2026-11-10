@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T10:58:48.800134+00:00",
+  "last_updated": "2026-11-10T11:57:07.145924+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
-      "url": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 10:31:05 GMT"
-    },
-    {
-      "title": "Charlton’s struggles expose ‘absolute ocean’ between WSL and second tier",
-      "url": "https://www.theguardian.com/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills",
-      "source": "The Guardian Football",
-      "published": "Fri, 06 Nov 2026 20:49:00 GMT"
-    },
     {
       "title": "‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel",
       "url": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/10/felix-nmecha-denies-goal-celebrations-promote-intolerance-discrimination-and-hate",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 10:06:06 GMT"
+    },
+    {
+      "title": "Hill gets first England call-up as Konsa cover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 11:41:27 GMT"
+    },
+    {
+      "title": "David Squires on … You Can MUFC Everything",
+      "url": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 11:02:54 GMT"
     }
   ]
 }
