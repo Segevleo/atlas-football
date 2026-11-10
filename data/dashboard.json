@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T14:22:03.047760+00:00",
+  "last_updated": "2026-11-10T15:57:06.253064+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 22:14:38 GMT"
-    },
-    {
-      "title": "Bundesliga",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 21:45:31 GMT"
-    },
-    {
-      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 22:01:57 GMT"
-    },
     {
       "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
       "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
@@ -456,10 +438,10 @@
       "published": "Sun, 08 Nov 2026 16:14:31 GMT"
     },
     {
-      "title": "Man Utd expected to sack head coach Carrick",
+      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 23:13:31 GMT"
+      "published": "Tue, 10 Nov 2026 11:23:43 GMT"
     },
     {
       "title": "Brady ends association with Birmingham City",
@@ -558,7 +540,7 @@
       "published": "Tue, 10 Nov 2026 08:00:32 GMT"
     },
     {
-      "title": "The fans at the FA Cup game no-one could see",
+      "title": "The fans at the foggy FA Cup game no-one could see",
       "url": "https://www.bbc.co.uk/news/articles/cmqjnjvld27yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 10 Nov 2026 06:00:05 GMT"
@@ -594,7 +576,7 @@
       "published": "Wed, 01 Oct 2025 11:00:23 GMT"
     },
     {
-      "title": "Rui Pinto’s lawyers in talks with UK authorities over cooperation deal for whistleblower",
+      "title": "Rui Pinto’s lawyers in talks with UK authorities over deal for Manchester City whistleblower",
       "url": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 10:30:35 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 13:58:30 GMT"
+    },
+    {
+      "title": "Birthdays and broken lamps - at home with the Charles brothers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 14:36:21 GMT"
+    },
+    {
+      "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 14:14:26 GMT"
+    },
+    {
+      "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+      "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 15:08:24 GMT"
     }
   ]
 }
