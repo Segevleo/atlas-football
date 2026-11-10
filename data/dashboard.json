@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T19:02:36.892993+00:00",
+  "last_updated": "2026-11-10T19:59:24.694598+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Fishlock retires after record-breaking career",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z8401zz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 06:32:11 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 06:25:16 GMT"
-    },
-    {
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0plyc8k?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 00:30:00 GMT"
-    },
-    {
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "url": "https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 08:00:04 GMT"
-    },
     {
       "title": "SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6x292y37g59o?at_medium=RSS&at_campaign=rss",
@@ -663,7 +639,31 @@
       "title": "Inter v Manchester City: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
       "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 18:47:56 GMT"
+      "published": "Tue, 10 Nov 2026 19:41:47 GMT"
+    },
+    {
+      "title": "Lecturer's bid to challenge Fifa president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 19:14:14 GMT"
+    },
+    {
+      "title": "Partick Thistle lose SWPL points for amateur player payments",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 19:23:42 GMT"
+    },
+    {
+      "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d’Or ambition",
+      "url": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 19:00:17 GMT"
+    },
+    {
+      "title": "Firing a manager is often more about maintaining the illusion of control",
+      "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 19:03:04 GMT"
     }
   ]
 }
