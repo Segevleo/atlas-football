@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T05:59:55.163899+00:00",
+  "last_updated": "2026-11-10T07:19:32.415556+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "What can you read into Premier League table after 10 games?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 19:40:34 GMT"
-    },
-    {
-      "title": "Man Utd making it 'hard on ourselves' - Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 19:13:46 GMT"
-    },
-    {
-      "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 18:56:55 GMT"
-    },
-    {
-      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 19:39:24 GMT"
-    },
-    {
-      "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-      "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 18:54:23 GMT"
-    },
     {
       "title": "Sign up for the Football Daily newsletter: our free football email",
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
@@ -664,6 +634,36 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 08 Nov 2026 19:24:36 GMT"
+    },
+    {
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 06:24:50 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 06:40:56 GMT"
+    },
+    {
+      "title": "Injuries, noise & scalps - Wrexham's season so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 04:13:48 GMT"
+    },
+    {
+      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 06:35:30 GMT"
+    },
+    {
+      "title": "Ultimate 1-50: the male footballers best associated with each squad number",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 06:00:30 GMT"
     }
   ]
 }
