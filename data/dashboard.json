@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T16:59:51.368610+00:00",
+  "last_updated": "2026-11-10T17:54:36.887804+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'A horrible place to be' - What's gone wrong for Palace?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 23:53:08 GMT"
-    },
-    {
-      "title": "Why defenders hate playing against brilliant Brobbey",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 23:53:15 GMT"
-    },
     {
       "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
       "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
@@ -408,7 +396,7 @@
       "published": "Sun, 08 Nov 2026 16:14:31 GMT"
     },
     {
-      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 10 Nov 2026 11:23:43 GMT"
@@ -663,7 +651,19 @@
       "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
       "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
       "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 16:10:38 GMT"
+      "published": "Tue, 10 Nov 2026 17:40:40 GMT"
+    },
+    {
+      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 08 Nov 2026 23:53:20 GMT"
+    },
+    {
+      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+      "source": "The Guardian Football",
+      "published": "Sun, 08 Nov 2026 22:12:58 GMT"
     }
   ]
 }
