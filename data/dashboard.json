@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T15:57:06.253064+00:00",
+  "last_updated": "2026-11-10T16:59:51.368610+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 22:12:58 GMT"
-    },
-    {
-      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 22:27:50 GMT"
-    },
-    {
-      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 23:41:30 GMT"
-    },
-    {
-      "title": "NWSL playoffs: Cooper’s extra-time penalty sends Kansas City through as Utah stun San Diego",
-      "url": "https://www.theguardian.com/football/2026/nov/07/nwsl-playoffs-kansas-city-current-angel-city-utah-royals-san-diego-wave",
-      "source": "The Guardian Football",
-      "published": "Sat, 07 Nov 2026 20:40:37 GMT"
-    },
-    {
-      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 23:53:20 GMT"
-    },
     {
       "title": "'A horrible place to be' - What's gone wrong for Palace?",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 15:08:24 GMT"
+    },
+    {
+      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 16:17:10 GMT"
+    },
+    {
+      "title": "McTominay reveals heart treatment at World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 16:46:31 GMT"
+    },
+    {
+      "title": "Oldham boss Mellon charged by FA following red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 16:41:54 GMT"
+    },
+    {
+      "title": "What is the Women's Champions League prize money?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 16:29:16 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 16:10:38 GMT"
     }
   ]
 }
