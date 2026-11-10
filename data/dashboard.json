@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T11:57:07.145924+00:00",
+  "last_updated": "2026-11-10T13:12:38.000749+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel",
-      "url": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
-      "source": "The Guardian Football",
-      "published": "Thu, 05 Nov 2026 22:03:49 GMT"
-    },
-    {
-      "title": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
-      "source": "The Guardian Football",
-      "published": "Thu, 05 Nov 2026 13:32:02 GMT"
-    },
-    {
-      "title": "Uefa faces political flashpoint over Sevastopol’s ascent in Russian football",
-      "url": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
-      "source": "The Guardian Football",
-      "published": "Thu, 05 Nov 2026 07:30:56 GMT"
-    },
-    {
-      "title": "Palace consider replacing Sage, with Frank among contenders",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 20:49:40 GMT"
-    },
-    {
-      "title": "Who has made Troy's Premier League team of the week?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 20:18:01 GMT"
-    },
     {
       "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 11:02:54 GMT"
+    },
+    {
+      "title": "Wales call up MK Dons' Collins as Moore withdraws",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 11:47:59 GMT"
+    },
+    {
+      "title": "Dortmund fans' group criticises Nmecha celebration",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 12:48:21 GMT"
+    },
+    {
+      "title": "Savage denies media work is impacting role as manager",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ev3vmykweko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 12:39:31 GMT"
+    },
+    {
+      "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
+      "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
+    },
+    {
+      "title": "From W-M to the No 10, shirt numbers tell a story of football’s tactical evolution",
+      "url": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
     }
   ]
 }
