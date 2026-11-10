@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T22:51:47.541853+00:00",
+  "last_updated": "2026-11-10T23:44:04.368602+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Chelsea staff warned over Fantasy Premier League use",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 12:41:23 GMT"
-    },
-    {
-      "title": "Berkhamsted players banned from watching FA Cup draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9k910l1ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 11:45:08 GMT"
-    },
-    {
-      "title": "Friedel group completes Shrewsbury Town takeover",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 13:07:29 GMT"
-    },
     {
       "title": "Post your questions for Terry Butcher",
       "url": "https://www.theguardian.com/football/2026/nov/05/terry-butcher-ipswich-rangers-england-defender-post-questions",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 22:05:43 GMT"
+    },
+    {
+      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 23:08:35 GMT"
+    },
+    {
+      "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 22:17:53 GMT"
+    },
+    {
+      "title": "Football comes together across Spain to honour Jesús de Miguel: ‘We’ve seen how fragile life is’",
+      "url": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
+      "source": "The Guardian Football",
+      "published": "Mon, 09 Nov 2026 11:00:13 GMT"
     }
   ]
 }
