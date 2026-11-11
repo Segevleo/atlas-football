@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T06:08:32.325284+00:00",
+  "last_updated": "2026-11-11T07:25:27.234838+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Post your questions for Terry Butcher",
-      "url": "https://www.theguardian.com/football/2026/nov/05/terry-butcher-ipswich-rangers-england-defender-post-questions",
-      "source": "The Guardian Football",
-      "published": "Thu, 05 Nov 2026 11:48:23 GMT"
-    },
-    {
-      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 14:34:19 GMT"
-    },
-    {
-      "title": "Bronze named in World 11 for record ninth time",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 14:55:32 GMT"
-    },
     {
       "title": "When is the FA Cup second round draw?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6wydypkgdjlo?at_medium=RSS&at_campaign=rss",
@@ -606,7 +588,7 @@
       "published": "Tue, 10 Nov 2026 19:00:17 GMT"
     },
     {
-      "title": "Firing a manager is often more about maintaining the illusion of control",
+      "title": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
       "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 19:03:04 GMT"
@@ -618,7 +600,7 @@
       "published": "Tue, 10 Nov 2026 20:07:12 GMT"
     },
     {
-      "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+      "title": "McTominay reveals he had heart ‘shocked’ two days before World Cup opener",
       "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 19:54:51 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
       "source": "The Guardian Football",
       "published": "Mon, 09 Nov 2026 11:00:13 GMT"
+    },
+    {
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 06:24:28 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 06:47:18 GMT"
+    },
+    {
+      "title": "Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
+      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 06:00:32 GMT"
     }
   ]
 }
