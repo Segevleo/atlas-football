@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T10:07:57.366486+00:00",
+  "last_updated": "2026-11-11T11:08:18.057403+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
-      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 22:19:09 GMT"
-    },
-    {
-      "title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
-      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 16:30:13 GMT"
-    },
-    {
-      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
-      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
-      "source": "The Guardian Football",
-      "published": "Wed, 04 Nov 2026 13:00:11 GMT"
-    },
-    {
-      "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
-      "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
-      "source": "The Guardian Football",
-      "published": "Wed, 04 Nov 2026 08:00:28 GMT"
-    },
     {
       "title": "Man Utd yet to make decision on Carrick's future",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
@@ -606,10 +582,10 @@
       "published": "Wed, 11 Nov 2026 06:00:32 GMT"
     },
     {
-      "title": "Man Utd open talks with Pochettino about replacing Carrick",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 09:11:28 GMT"
+      "published": "Wed, 11 Nov 2026 10:34:01 GMT"
     },
     {
       "title": "NI can draw on strong club form in key window",
@@ -645,7 +621,7 @@
       "title": "Shirt pull on Isak should have been penalty - panel",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 10:00:18 GMT"
+      "published": "Wed, 11 Nov 2026 10:23:37 GMT"
     },
     {
       "title": "Robinson unfazed by Pochettino departure talk",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
       "source": "The Guardian Football",
       "published": "Mon, 09 Nov 2026 14:10:43 GMT"
+    },
+    {
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 10:17:09 GMT"
+    },
+    {
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 00:19:42 GMT"
+    },
+    {
+      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 10:32:23 GMT"
+    },
+    {
+      "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 10:00:36 GMT"
     }
   ]
 }
