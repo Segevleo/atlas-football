@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:02:46.469661+00:00",
+  "last_updated": "2026-11-11T13:19:43.700607+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Wilson eyeing survival step as Wales tackle Norway",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 17:21:28 GMT"
-    },
-    {
-      "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly – video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 13:29:14 GMT"
-    },
-    {
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
-    },
-    {
-      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
-    },
     {
       "title": "Transfer window verdict: how every Premier League club fared",
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 11:02:46 GMT"
+    },
+    {
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 12:58:17 GMT"
+    },
+    {
+      "title": "Scotland without captain Weir for World Cup play-off",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 11:59:18 GMT"
+    },
+    {
+      "title": "How promotion, relegation and knockouts work in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 12:09:22 GMT"
+    },
+    {
+      "title": "‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
+      "url": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 12:30:30 GMT"
     }
   ]
 }
