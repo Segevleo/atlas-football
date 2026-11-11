@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T11:08:18.057403+00:00",
+  "last_updated": "2026-11-11T12:02:46.469661+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Man Utd yet to make decision on Carrick's future",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 17:49:05 GMT"
-    },
-    {
-      "title": "Kane and Bellingham air strong views in England World Cup review",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 17:30:23 GMT"
-    },
-    {
-      "title": "Listen to Monday Night Club",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 21:00:00 GMT"
-    },
     {
       "title": "Wilson eyeing survival step as Wales tackle Norway",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 10:00:36 GMT"
+    },
+    {
+      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 11:47:09 GMT"
+    },
+    {
+      "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+      "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 11:56:39 GMT"
+    },
+    {
+      "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
+      "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 11:02:46 GMT"
     }
   ]
 }
