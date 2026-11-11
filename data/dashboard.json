@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T13:19:43.700607+00:00",
+  "last_updated": "2026-11-11T14:59:22.577329+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian Football",
-      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
-    },
-    {
-      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 22:10:22 GMT"
-    },
-    {
-      "title": "People don't know full story behind England exile - White",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 19:00:10 GMT"
-    },
-    {
-      "title": "Burn replaces injured Guehi in England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 12:06:19 GMT"
-    },
-    {
-      "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
-      "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 17:10:00 GMT"
-    },
     {
       "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
       "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
@@ -588,10 +558,10 @@
       "published": "Wed, 11 Nov 2026 09:54:38 GMT"
     },
     {
-      "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+      "title": "Manchester United reach framework deal with Pochettino before settling Carrick’s fate",
       "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
       "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 08:56:37 GMT"
+      "published": "Wed, 11 Nov 2026 13:52:39 GMT"
     },
     {
       "title": "Felix Nmecha’s faith is forcing Borussia Dortmund into an uncomfortable debate",
@@ -624,7 +594,7 @@
       "published": "Wed, 11 Nov 2026 10:00:36 GMT"
     },
     {
-      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+      "title": "Assessing the reasons for Man City's decline in form under Maresca",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Wed, 11 Nov 2026 11:47:09 GMT"
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 12:30:30 GMT"
+    },
+    {
+      "title": "Turkey-based Bates replaces Binks in Scotland squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 13:37:08 GMT"
+    },
+    {
+      "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
+      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 13:58:30 GMT"
+    },
+    {
+      "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
+      "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 14:30:15 GMT"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
     }
   ]
 }
