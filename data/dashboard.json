@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T14:59:22.577329+00:00",
+  "last_updated": "2026-11-11T15:58:46.766664+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 14:13:00 GMT"
-    },
     {
       "title": "Ben White says he has no complaints at boos from England fans over self-imposed exile",
       "url": "https://www.theguardian.com/football/2026/nov/09/ben-white-england-international-exile-arsenal-thomas-tuchel-squad-nations-league-spain-croatia",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "source": "The Guardian Football",
       "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
