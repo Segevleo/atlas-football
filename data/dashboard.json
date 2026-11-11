@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T20:08:16.630548+00:00",
+  "last_updated": "2026-11-11T21:44:02.164970+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "BBC Women's Football Weekly",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pm60tc?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 09 Nov 2026 21:46:00 GMT"
-    },
-    {
-      "title": "Cerebral Josh King plots unusual route into Tuchel’s England plans",
-      "url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 22:30:20 GMT"
-    },
-    {
-      "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
-      "url": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 23:30:38 GMT"
-    },
     {
       "title": "CF Montreal are for sale: What it means, how much it could cost, and what’s next for the MLS club",
       "url": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Arsenal join Scott chase - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 21:38:01 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 20:53:00 GMT"
+    },
+    {
+      "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 21:10:31 GMT"
     }
   ]
 }
