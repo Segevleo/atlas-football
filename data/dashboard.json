@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T19:04:31.268855+00:00",
+  "last_updated": "2026-11-12T20:01:45.170228+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Chelsea play out goalless draw with Hacken",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 20:07:12 GMT"
-    },
-    {
-      "title": "McTominay reveals he had heart ‘shocked’ two days before World Cup opener",
-      "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 19:54:51 GMT"
-    },
     {
       "title": "Pocognoli to lean on Scotland's 'captain group of five'",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
@@ -303,7 +291,7 @@
       "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
       "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 16:44:58 GMT"
+      "published": "Thu, 12 Nov 2026 19:53:40 GMT"
     },
     {
       "title": "Bristol City give Skubala opportunity to improve form",
@@ -624,10 +612,10 @@
       "published": "Thu, 12 Nov 2026 18:12:55 GMT"
     },
     {
-      "title": "Barcelona v Arsenal: Women’s Champions League – live",
+      "title": "Barcelona 1-1 Arsenal: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 18:59:16 GMT"
+      "published": "Thu, 12 Nov 2026 19:54:12 GMT"
     },
     {
       "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
       "source": "The Guardian Football",
       "published": "Thu, 12 Nov 2026 16:24:51 GMT"
+    },
+    {
+      "title": "Quiz: Name England's all-time leading appearance makers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 19:47:16 GMT"
+    },
+    {
+      "title": "England v Croatia: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 19:54:17 GMT"
     }
   ]
 }
