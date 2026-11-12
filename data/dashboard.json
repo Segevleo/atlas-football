@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T09:10:36.354096+00:00",
+  "last_updated": "2026-11-12T10:12:33.987339+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
-    {
-      "title": "Rui Pinto’s lawyers in talks with UK authorities over deal for Manchester City whistleblower",
-      "url": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 10:30:35 GMT"
-    },
-    {
-      "title": "Felix Nmecha denies goal celebrations promote ‘intolerance, discrimination and hate’",
-      "url": "https://www.theguardian.com/football/2026/nov/10/felix-nmecha-denies-goal-celebrations-promote-intolerance-discrimination-and-hate",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 10:06:06 GMT"
-    },
     {
       "title": "Hill gets first England call-up as Konsa cover",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
       "source": "The Guardian Football",
       "published": "Tue, 10 Nov 2026 06:00:30 GMT"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": "The Guardian Football",
+      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
+    },
+    {
+      "title": "Sign up for the Recap newsletter: our free sport highlights email",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": "The Guardian Football",
+      "published": "Mon, 15 May 2017 11:00:43 GMT"
     }
   ]
 }
