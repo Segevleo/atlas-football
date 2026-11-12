@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:14:40.184167+00:00",
+  "last_updated": "2026-11-12T12:09:31.618520+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Savage denies media work is impacting role as manager",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ev3vmykweko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 12:39:31 GMT"
-    },
-    {
-      "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
-      "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
-    },
-    {
-      "title": "From W-M to the No 10, shirt numbers tell a story of football’s tactical evolution",
-      "url": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
-    },
     {
       "title": "Who are the main candidates for the Aberdeen job?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
@@ -651,19 +633,37 @@
       "title": "Six matches that defined Carrick's Man Utd tenure",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 10:39:54 GMT"
+      "published": "Thu, 12 Nov 2026 11:25:46 GMT"
     },
     {
       "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
       "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 11:04:09 GMT"
+      "published": "Thu, 12 Nov 2026 11:49:20 GMT"
     },
     {
       "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
       "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
       "source": "The Guardian Football",
       "published": "Wed, 01 Oct 2025 11:00:23 GMT"
+    },
+    {
+      "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 11:31:54 GMT"
+    },
+    {
+      "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
+      "url": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 11:00:48 GMT"
+    },
+    {
+      "title": "David Squires on … You Can MUFC Everything",
+      "url": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 11:02:54 GMT"
     }
   ]
 }
