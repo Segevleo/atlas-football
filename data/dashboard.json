@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T20:01:45.170228+00:00",
+  "last_updated": "2026-11-12T20:57:44.007814+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 20:49:11 GMT"
-    },
-    {
-      "title": "Man City thrash Inter to claim first CL win of season",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 22:05:15 GMT"
-    },
-    {
-      "title": "72+: The EFL Podcast",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 22:29:00 GMT"
-    },
     {
       "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
       "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
@@ -663,7 +645,25 @@
       "title": "England v Croatia: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 19:54:17 GMT"
+      "published": "Thu, 12 Nov 2026 20:40:13 GMT"
+    },
+    {
+      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 20:09:07 GMT"
+    },
+    {
+      "title": "Chelsea play out goalless draw with Hacken",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 20:07:12 GMT"
+    },
+    {
+      "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
+      "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 20:00:16 GMT"
     }
   ]
 }
