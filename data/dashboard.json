@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T17:12:18.715686+00:00",
+  "last_updated": "2026-11-12T17:59:49.598804+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-      "source": "The Guardian Football",
-      "published": "Sun, 08 Nov 2026 22:12:58 GMT"
-    },
-    {
-      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 18:12:02 GMT"
-    },
-    {
-      "title": "Wales' Johnson says definitely more to come after 50 caps",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 18:01:03 GMT"
-    },
     {
       "title": "Inter v Manchester City: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
@@ -597,7 +579,7 @@
       "title": "Crystal Palace sack boss Sage after 16 games",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 12:23:47 GMT"
+      "published": "Thu, 12 Nov 2026 17:15:20 GMT"
     },
     {
       "title": "Police investigation into Vigar's death ongoing",
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Thu, 12 Nov 2026 16:31:00 GMT"
+    },
+    {
+      "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 17:02:10 GMT"
+    },
+    {
+      "title": "Barcelona v Arsenal: Women’s Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 17:54:39 GMT"
+    },
+    {
+      "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
+      "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 17:00:22 GMT"
     }
   ]
 }
