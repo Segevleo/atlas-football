@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T23:55:24.824979+00:00",
+  "last_updated": "2026-11-12T01:23:26.645826+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 08 Nov 2026 19:24:36 GMT"
-    },
     {
       "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Wed, 11 Nov 2026 23:08:00 GMT"
+    },
+    {
+      "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 00:13:13 GMT"
     }
   ]
 }
