@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T20:01:39.255331+00:00",
+  "last_updated": "2026-11-13T20:59:09.558885+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'Unfinished business' - Tuchel committed to England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 08:42:47 GMT"
-    },
     {
       "title": "USA withdraw from U17 World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
@@ -633,7 +627,7 @@
       "title": "Scotland v North Macedonia: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 19:48:59 GMT"
+      "published": "Fri, 13 Nov 2026 20:48:45 GMT"
     },
     {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
       "source": "The Guardian Football",
       "published": "Fri, 13 Nov 2026 19:00:23 GMT"
+    },
+    {
+      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 19:59:40 GMT"
     }
   ]
 }
