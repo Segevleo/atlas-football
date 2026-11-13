@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T21:54:16.883540+00:00",
+  "last_updated": "2026-11-13T22:52:25.913533+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "USA withdraw from U17 World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 07:44:21 GMT"
-    },
-    {
-      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 06:35:30 GMT"
-    },
-    {
-      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 06:24:50 GMT"
-    },
-    {
-      "title": "Harry Kane’s England caps record: an illustrious career in numbers and charts",
-      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 08:00:14 GMT"
-    },
-    {
-      "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-      "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 08:00:13 GMT"
-    },
-    {
-      "title": "Ultimate 1-50: the male footballers best associated with each squad number",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 06:00:30 GMT"
-    },
     {
       "title": "Sign up for the Football Daily newsletter: our free football email",
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
@@ -612,10 +576,10 @@
       "published": "Fri, 13 Nov 2026 18:20:17 GMT"
     },
     {
-      "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 18:36:27 GMT"
+      "published": "Fri, 13 Nov 2026 22:11:27 GMT"
     },
     {
       "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
@@ -664,6 +628,42 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 13 Nov 2026 19:59:40 GMT"
+    },
+    {
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 22:37:30 GMT"
+    },
+    {
+      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 22:05:14 GMT"
+    },
+    {
+      "title": "'If that penalty is given against you, you're furious'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 22:34:20 GMT"
+    },
+    {
+      "title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+      "url": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 10:45:05 GMT"
+    },
+    {
+      "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
+      "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 22:16:31 GMT"
+    },
+    {
+      "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+      "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 22:04:08 GMT"
     }
   ]
 }
