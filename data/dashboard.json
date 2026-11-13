@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:02:37.703138+00:00",
+  "last_updated": "2026-11-13T13:17:52.400412+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Legally restrict heading a football in training, says MP",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 17:38:18 GMT"
-    },
     {
       "title": "O'Shea proud of how team-mates handled Israel games",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
@@ -582,10 +576,10 @@
       "published": "Fri, 13 Nov 2026 08:22:34 GMT"
     },
     {
-      "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football – live",
+      "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 11:40:02 GMT"
+      "published": "Fri, 13 Nov 2026 12:56:56 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -609,7 +603,7 @@
       "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 09:24:45 GMT"
+      "published": "Fri, 13 Nov 2026 12:09:48 GMT"
     },
     {
       "title": "The club preparing to play again after the death of a player",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "Odegaard backing Norway to avenge Wales defeat",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 12:43:51 GMT"
     }
   ]
 }
