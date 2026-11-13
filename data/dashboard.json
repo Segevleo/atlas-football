@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:08:37.430613+00:00",
+  "last_updated": "2026-11-13T12:02:37.703138+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Bristol City give Skubala opportunity to improve form",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 15:52:30 GMT"
-    },
-    {
-      "title": "Referee observer banned for discriminatory comments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 16:26:24 GMT"
-    },
-    {
-      "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 16:03:44 GMT"
-    },
     {
       "title": "Legally restrict heading a football in training, says MP",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
@@ -603,7 +585,7 @@
       "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 10:53:39 GMT"
+      "published": "Fri, 13 Nov 2026 11:40:02 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
       "source": "The Guardian Football",
       "published": "Tue, 22 Sep 2026 08:59:39 GMT"
+    },
+    {
+      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 19:53:40 GMT"
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
