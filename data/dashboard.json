@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:17:52.400412+00:00",
+  "last_updated": "2026-11-13T14:57:51.419462+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "O'Shea proud of how team-mates handled Israel games",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 17:33:37 GMT"
-    },
-    {
-      "title": "Shrewsbury 'hit all the boxes' for new owners - Friedel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm894wegv3lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 17:44:42 GMT"
-    },
-    {
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmh9w1?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 18:15:00 GMT"
-    },
     {
       "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
       "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
@@ -576,10 +558,10 @@
       "published": "Fri, 13 Nov 2026 08:22:34 GMT"
     },
     {
-      "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football – live",
+      "title": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 12:56:56 GMT"
+      "published": "Fri, 13 Nov 2026 14:40:53 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 13 Nov 2026 12:43:51 GMT"
+    },
+    {
+      "title": "Missing Israel games 'stressful' for captain Collins",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 12:26:18 GMT"
+    },
+    {
+      "title": "Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think",
+      "url": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 14:05:44 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino to Manchester United and record breaker Kane | Football Weekly video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 13:41:07 GMT"
     }
   ]
 }
