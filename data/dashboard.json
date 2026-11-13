@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T09:07:22.799521+00:00",
+  "last_updated": "2026-11-13T10:08:46.565074+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
-      "url": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 12:30:30 GMT"
-    },
-    {
-      "title": "Turkey-based Bates replaces Binks in Scotland squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 13:37:08 GMT"
-    },
-    {
-      "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
-      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 13:58:30 GMT"
-    },
-    {
-      "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-      "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 14:30:15 GMT"
-    },
-    {
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
-    },
     {
       "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
@@ -648,10 +618,10 @@
       "published": "Fri, 13 Nov 2026 08:22:34 GMT"
     },
     {
-      "title": "Pochettino to take over at Manchester United; Grealish apologises to Everton fans: football – live",
+      "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 08:56:22 GMT"
+      "published": "Fri, 13 Nov 2026 10:00:32 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
       "source": "The Guardian Football",
       "published": "Thu, 03 Sep 2026 09:00:49 GMT"
+    },
+    {
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 09:55:01 GMT"
+    },
+    {
+      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 09:24:45 GMT"
+    },
+    {
+      "title": "The club preparing to play again after the death of a player",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 10:00:46 GMT"
+    },
+    {
+      "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+      "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 11:56:39 GMT"
+    },
+    {
+      "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
+      "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 11:02:46 GMT"
     }
   ]
 }
