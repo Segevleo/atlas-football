@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T10:08:46.565074+00:00",
+  "last_updated": "2026-11-13T11:08:37.430613+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
-    },
-    {
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian Football",
-      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
-    },
-    {
-      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 19:53:40 GMT"
-    },
     {
       "title": "Bristol City give Skubala opportunity to improve form",
       "url": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
@@ -621,7 +603,7 @@
       "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 10:00:32 GMT"
+      "published": "Fri, 13 Nov 2026 10:53:39 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 11:02:46 GMT"
+    },
+    {
+      "title": "Who makes your Northern Ireland XI against Ukraine?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 08:21:40 GMT"
+    },
+    {
+      "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 10:49:07 GMT"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
     }
   ]
 }
