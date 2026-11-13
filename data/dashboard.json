@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T06:08:54.993146+00:00",
+  "last_updated": "2026-11-13T07:26:35.712754+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 10:17:09 GMT"
-    },
-    {
-      "title": "Vinicius Jr sends message to Sudan boy who received prosthetic legs",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 00:19:42 GMT"
-    },
-    {
-      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 10:32:23 GMT"
-    },
     {
       "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
       "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Wed, 11 Nov 2026 09:54:38 GMT"
+    },
+    {
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 06:57:25 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 06:42:18 GMT"
+    },
+    {
+      "title": "Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
+      "url": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 07:00:12 GMT"
     }
   ]
 }
