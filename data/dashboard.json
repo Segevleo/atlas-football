@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T01:18:36.618814+00:00",
+  "last_updated": "2026-11-13T02:56:03.370199+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Felix Nmecha’s faith is forcing Borussia Dortmund into an uncomfortable debate",
-      "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
-      "source": "The Guardian Football",
-      "published": "Mon, 09 Nov 2026 14:10:43 GMT"
-    },
     {
       "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
       "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 08:00:32 GMT"
+    },
+    {
+      "title": "Robinson unfazed by Pochettino departure talk",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 11 Nov 2026 09:54:38 GMT"
     }
   ]
 }
