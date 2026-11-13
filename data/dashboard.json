@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T17:57:29.494010+00:00",
+  "last_updated": "2026-11-13T19:02:22.514831+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Euro Leagues",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 11 Nov 2026 23:08:00 GMT"
-    },
-    {
-      "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 00:13:13 GMT"
-    },
-    {
-      "title": "Kane's top 10 England moments - which was your favourite?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 06:25:26 GMT"
-    },
-    {
-      "title": "Robertson set to make history, but hero Dalglish will always be King",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 07:19:57 GMT"
-    },
-    {
-      "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 07:12:41 GMT"
-    },
-    {
-      "title": "How 'Barca way' continues despite big-name exits",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 06:41:09 GMT"
-    },
     {
       "title": "Who am I? Plus today's other quizzes",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno?at_medium=RSS&at_campaign=rss",
@@ -664,6 +628,42 @@
       "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
       "source": "The Guardian Football",
       "published": "Fri, 13 Nov 2026 16:03:19 GMT"
+    },
+    {
+      "title": "EFL warns clubs over social media posts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 18:20:17 GMT"
+    },
+    {
+      "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 18:36:27 GMT"
+    },
+    {
+      "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 18:14:32 GMT"
+    },
+    {
+      "title": "Scotland v North Macedonia: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 18:43:39 GMT"
+    },
+    {
+      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 16:53:14 GMT"
+    },
+    {
+      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 21:54:46 GMT"
     }
   ]
 }
