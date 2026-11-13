@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T14:57:51.419462+00:00",
+  "last_updated": "2026-11-13T15:57:00.192781+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
-      "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 19:00:01 GMT"
-    },
     {
       "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
       "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
@@ -558,10 +552,10 @@
       "published": "Fri, 13 Nov 2026 08:22:34 GMT"
     },
     {
-      "title": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football – live",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 14:40:53 GMT"
+      "published": "Fri, 13 Nov 2026 15:47:05 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Fri, 13 Nov 2026 13:41:07 GMT"
+    },
+    {
+      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 15:28:06 GMT"
     }
   ]
 }
