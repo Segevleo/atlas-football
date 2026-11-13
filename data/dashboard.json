@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T17:02:09.359258+00:00",
+  "last_updated": "2026-11-13T17:57:29.494010+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 21:54:46 GMT"
-    },
     {
       "title": "Euro Leagues",
       "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
@@ -525,7 +519,7 @@
       "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 16:30:42 GMT"
+      "published": "Fri, 13 Nov 2026 17:44:28 GMT"
     },
     {
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
       "source": "The Guardian Football",
       "published": "Wed, 11 Nov 2026 19:00:01 GMT"
+    },
+    {
+      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
+      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 16:03:19 GMT"
     }
   ]
 }
