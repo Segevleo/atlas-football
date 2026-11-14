@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T07:11:39.732431+00:00",
+  "last_updated": "2026-11-14T08:11:36.833438+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "From W-M to the No 10, shirt numbers tell a story of football’s tactical evolution",
-      "url": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
-    },
-    {
-      "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
-      "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 12:00:51 GMT"
-    },
-    {
-      "title": "Archive, 1990: Peter Shilton wins 125th and final cap of record-breaking England career",
-      "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 13:27:18 GMT"
-    },
-    {
-      "title": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
-      "source": "The Guardian Football",
-      "published": "Tue, 10 Nov 2026 13:58:30 GMT"
-    },
     {
       "title": "Owono undecided over future following De Miguel death",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +640,30 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 10 Nov 2026 06:24:50 GMT"
+    },
+    {
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 07:49:46 GMT"
+    },
+    {
+      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 06:53:23 GMT"
+    },
+    {
+      "title": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
+      "url": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 12:00:47 GMT"
+    },
+    {
+      "title": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
+      "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 12:00:48 GMT"
     }
   ]
 }
