@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T11:48:54.966500+00:00",
+  "last_updated": "2026-11-14T12:59:54.797768+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
-      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 18:35:42 GMT"
-    },
     {
       "title": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
       "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-manager-crystal-palace-steve-parish-premier-league",
@@ -664,6 +658,12 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 14 Nov 2026 09:59:18 GMT"
+    },
+    {
+      "title": "Chelsea v Manchester City: Women’s Super League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 12:37:39 GMT"
     }
   ]
 }
