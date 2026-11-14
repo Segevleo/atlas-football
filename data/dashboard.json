@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T09:54:00.265841+00:00",
+  "last_updated": "2026-11-14T10:51:57.845574+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
-      "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 17:00:22 GMT"
-    },
-    {
-      "title": "SFA in talks with Boston officials over biennial friendly match",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 21:16:56 GMT"
-    },
     {
       "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
       "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
@@ -645,7 +633,7 @@
       "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 09:34:14 GMT"
+      "published": "Sat, 14 Nov 2026 10:42:54 GMT"
     },
     {
       "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
@@ -664,6 +652,18 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 14 Nov 2026 08:57:49 GMT"
+    },
+    {
+      "title": "NI target challenge of Nations League promotion",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 09:57:20 GMT"
+    },
+    {
+      "title": "'Exciting' Moylan flourishing for club and country",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 09:59:18 GMT"
     }
   ]
 }
