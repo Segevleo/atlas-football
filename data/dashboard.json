@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T08:58:01.995429+00:00",
+  "last_updated": "2026-11-14T09:54:00.265841+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 21:28:06 GMT"
-    },
-    {
-      "title": "Barcelona 1-1 Arsenal: Women’s Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 19:54:12 GMT"
-    },
     {
       "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
       "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
@@ -657,13 +645,25 @@
       "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 08:32:05 GMT"
+      "published": "Sat, 14 Nov 2026 09:34:14 GMT"
     },
     {
       "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
       "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
       "source": "The Guardian Football",
       "published": "Sat, 14 Nov 2026 08:00:40 GMT"
+    },
+    {
+      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 09:13:30 GMT"
+    },
+    {
+      "title": "Who would make your England-Spain combined XI?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 08:57:49 GMT"
     }
   ]
 }
