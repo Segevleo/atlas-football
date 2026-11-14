@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T14:51:24.162236+00:00",
+  "last_updated": "2026-11-14T15:48:57.376807+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Chelsea play out goalless draw with Hacken",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 20:07:12 GMT"
-    },
-    {
-      "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-      "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 20:00:16 GMT"
-    },
     {
       "title": "Kane scores winner but who else made an impression? England player ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
@@ -624,10 +612,10 @@
       "published": "Sat, 14 Nov 2026 09:59:18 GMT"
     },
     {
-      "title": "Chelsea v Manchester City: Women’s Super League – live",
+      "title": "Chelsea 1-0 Manchester City: Women’s Super League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
       "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 14:45:11 GMT"
+      "published": "Sat, 14 Nov 2026 15:29:12 GMT"
     },
     {
       "title": "SFA in talks with Boston officials over biennial friendly match",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
       "source": "The Guardian Football",
       "published": "Sat, 14 Nov 2026 14:06:37 GMT"
+    },
+    {
+      "title": "Former Stoke City manager Thordarson dies aged 71",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 15:04:59 GMT"
+    },
+    {
+      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 12 Nov 2026 20:09:07 GMT"
     }
   ]
 }
