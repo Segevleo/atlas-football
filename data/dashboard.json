@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T08:11:36.833438+00:00",
+  "last_updated": "2026-11-14T08:58:01.995429+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Owono undecided over future following De Miguel death",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 16:41:49 GMT"
-    },
-    {
-      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 16:12:39 GMT"
-    },
-    {
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 16:31:00 GMT"
-    },
     {
       "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
       "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
       "source": "The Guardian Football",
       "published": "Thu, 12 Nov 2026 12:00:48 GMT"
+    },
+    {
+      "title": "Clough's longevity: landmark achievement or indictment on football?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 08:35:00 GMT"
+    },
+    {
+      "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 08:32:05 GMT"
+    },
+    {
+      "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+      "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 08:00:40 GMT"
     }
   ]
 }
