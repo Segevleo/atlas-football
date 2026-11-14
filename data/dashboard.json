@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T22:45:57.761311+00:00",
+  "last_updated": "2026-11-14T23:43:41.581637+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 12:09:48 GMT"
-    },
-    {
-      "title": "The club preparing to play again after the death of a player",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 10:00:46 GMT"
-    },
-    {
-      "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
-      "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 11:56:39 GMT"
-    },
-    {
-      "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
-      "url": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
-      "source": "The Guardian Football",
-      "published": "Wed, 11 Nov 2026 11:02:46 GMT"
-    },
-    {
-      "title": "Who makes your Northern Ireland XI against Ukraine?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 08:21:40 GMT"
-    },
     {
       "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
       "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
       "source": "The Guardian Football",
       "published": "Fri, 13 Nov 2026 07:00:12 GMT"
+    },
+    {
+      "title": "The 'manager's dream' who has put NI one game from history",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 23:21:45 GMT"
+    },
+    {
+      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 22:40:02 GMT"
+    },
+    {
+      "title": "Liverpool put three past Brighton to end winless run",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 14 Nov 2026 23:00:29 GMT"
+    },
+    {
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 09:55:01 GMT"
+    },
+    {
+      "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
+      "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 08:00:12 GMT"
     }
   ]
 }
