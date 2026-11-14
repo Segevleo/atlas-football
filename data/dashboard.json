@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T13:57:48.551081+00:00",
+  "last_updated": "2026-11-14T14:51:24.162236+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Football Daily | ‘The club would like to thank …’: Manchester United dust off the heartfelt exit message",
-      "url": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 16:24:51 GMT"
-    },
-    {
-      "title": "Quiz: Name England men's all-time leading appearance makers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 19:47:16 GMT"
-    },
-    {
-      "title": "England 2-1 Croatia: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 21:37:24 GMT"
-    },
-    {
-      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 12 Nov 2026 20:09:07 GMT"
-    },
     {
       "title": "Chelsea play out goalless draw with Hacken",
       "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
@@ -651,7 +627,7 @@
       "title": "Chelsea v Manchester City: Women’s Super League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
       "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 13:44:28 GMT"
+      "published": "Sat, 14 Nov 2026 14:45:11 GMT"
     },
     {
       "title": "SFA in talks with Boston officials over biennial friendly match",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
       "source": "The Guardian Football",
       "published": "Sat, 14 Nov 2026 13:07:33 GMT"
+    },
+    {
+      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 06:35:30 GMT"
+    },
+    {
+      "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 10 Nov 2026 00:13:13 GMT"
+    },
+    {
+      "title": "Every goal from the Women's Super League - matchweek nine",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 09 Nov 2026 15:25:55 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 14:06:37 GMT"
     }
   ]
 }
