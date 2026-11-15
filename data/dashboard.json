@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T22:48:06.364367+00:00",
+  "last_updated": "2026-11-15T23:53:06.781671+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 06:37:49 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 06:27:36 GMT"
-    },
-    {
-      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 06:24:50 GMT"
-    },
-    {
-      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 07:49:46 GMT"
-    },
-    {
-      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-      "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 06:53:23 GMT"
-    },
-    {
-      "title": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
-      "url": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 12:00:47 GMT"
-    },
     {
       "title": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
       "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
@@ -664,6 +628,42 @@
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
       "source": "The Guardian Football",
       "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 23:16:00 GMT"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
+    },
+    {
+      "title": "Sign up for the Recap newsletter: our free sport highlights email",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": "The Guardian Football",
+      "published": "Mon, 15 May 2017 11:00:43 GMT"
+    },
+    {
+      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
+      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
+      "source": "The Guardian Football",
+      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
+    },
+    {
+      "title": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
+      "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 23:03:38 GMT"
+    },
+    {
+      "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
+      "url": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+      "source": "The Guardian Football",
+      "published": "Thu, 12 Nov 2026 11:00:48 GMT"
     }
   ]
 }
