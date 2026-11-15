@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T23:43:41.581637+00:00",
+  "last_updated": "2026-11-15T01:16:30.582566+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 10:49:07 GMT"
-    },
     {
       "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
       "source": "The Guardian Football",
       "published": "Fri, 13 Nov 2026 08:00:12 GMT"
+    },
+    {
+      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 13 Nov 2026 12:09:48 GMT"
     }
   ]
 }
