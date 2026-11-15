@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T17:45:28.959340+00:00",
+  "last_updated": "2026-11-15T18:54:21.307162+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
-      "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 19:00:23 GMT"
-    },
-    {
-      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 19:59:40 GMT"
-    },
-    {
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:37:30 GMT"
-    },
-    {
-      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:05:14 GMT"
-    },
-    {
-      "title": "'If that penalty is given against you, you're furious'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:34:20 GMT"
-    },
-    {
-      "title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
-      "url": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 10:45:05 GMT"
-    },
     {
       "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
       "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
@@ -642,10 +606,10 @@
       "published": "Sun, 15 Nov 2026 13:55:09 GMT"
     },
     {
-      "title": "Arsenal v London City Lionesses: Women’s Super League – live",
+      "title": "Arsenal 1-1 London City Lionesses: Women’s Super League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 17:18:23 GMT"
+      "published": "Sun, 15 Nov 2026 18:38:07 GMT"
     },
     {
       "title": "Why Northern Ireland won't focus on point they need in Hungary",
@@ -664,6 +628,42 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 15 Nov 2026 17:10:24 GMT"
+    },
+    {
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 18:33:36 GMT"
+    },
+    {
+      "title": "Frick named new head coach at Aberdeen",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 18:27:08 GMT"
+    },
+    {
+      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 17:56:57 GMT"
+    },
+    {
+      "title": "AS FAR retain Women's African Champions League title",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 17:23:45 GMT"
+    },
+    {
+      "title": "Children's tournament abandoned for parents' behaviour",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 18:24:54 GMT"
+    },
+    {
+      "title": "Spain v England: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 18:37:37 GMT"
     }
   ]
 }
