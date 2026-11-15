@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T13:01:40.485984+00:00",
+  "last_updated": "2026-11-15T13:59:37.690129+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
-      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 16:03:19 GMT"
-    },
-    {
-      "title": "EFL warns clubs over social media posts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 18:20:17 GMT"
-    },
-    {
-      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:11:27 GMT"
-    },
     {
       "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
       "source": "The Guardian Football",
       "published": "Sun, 15 Nov 2026 12:00:16 GMT"
+    },
+    {
+      "title": "Branthwaite, Garner and King omitted for Spain game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 13:15:15 GMT"
+    },
+    {
+      "title": "Pitch perimeters under review after Vigar death",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 13:49:17 GMT"
+    },
+    {
+      "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
+      "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+      "source": "The Guardian Football",
+      "published": "Wed, 11 Nov 2026 19:00:01 GMT"
     }
   ]
 }
