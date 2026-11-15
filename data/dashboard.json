@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T18:54:21.307162+00:00",
+  "last_updated": "2026-11-15T19:50:39.476097+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
-      "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 22:16:31 GMT"
-    },
-    {
-      "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
-      "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 22:04:08 GMT"
-    },
-    {
-      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:53:17 GMT"
-    },
-    {
-      "title": "Ferguson 'made up' with first win as Glentoran boss",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 22:54:49 GMT"
-    },
-    {
-      "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
-      "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 23:14:45 GMT"
-    },
-    {
-      "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-      "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 08:00:13 GMT"
-    },
     {
       "title": "Ultimate 1-50: the male footballers best associated with each squad number",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
@@ -633,10 +597,10 @@
       "title": "Ronaldinho makes comeback in Ravenna win",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 18:33:36 GMT"
+      "published": "Sun, 15 Nov 2026 19:31:48 GMT"
     },
     {
-      "title": "Frick named new head coach at Aberdeen",
+      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 15 Nov 2026 18:27:08 GMT"
@@ -663,7 +627,43 @@
       "title": "Spain v England: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
       "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 18:37:37 GMT"
+      "published": "Sun, 15 Nov 2026 19:45:12 GMT"
+    },
+    {
+      "title": "Struggling Charlton make WSL history after defeat at West Ham",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 19:43:57 GMT"
+    },
+    {
+      "title": "Aston Villa beat Birmingham in WSL derby",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 19:47:37 GMT"
+    },
+    {
+      "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+      "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 18:53:08 GMT"
+    },
+    {
+      "title": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
+      "url": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 19:20:08 GMT"
+    },
+    {
+      "title": "Five red cards issued for mass brawl in New York Red Bulls v Club América friendly",
+      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 19:29:41 GMT"
+    },
+    {
+      "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
+      "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
+      "source": "The Guardian Football",
+      "published": "Fri, 13 Nov 2026 19:00:23 GMT"
     }
   ]
 }
