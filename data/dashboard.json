@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T22:56:09.585631+00:00",
+  "last_updated": "2026-11-16T23:51:20.085596+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Spain v England buildup, reaction to Portugal’s post-Ronaldo thrashing, WSL and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 11:30:47 GMT"
-    },
-    {
-      "title": "Mauricio Pochettino to Manchester United and record breaker Kane | Football Weekly video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 13:41:07 GMT"
-    },
-    {
-      "title": "Wenger decides not to challenge Fifa chief Infantino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 11:28:25 GMT"
-    },
-    {
-      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
-      "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 12:00:16 GMT"
-    },
-    {
-      "title": "Branthwaite, Garner and King omitted for Spain game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 13:15:15 GMT"
-    },
     {
       "title": "Pitch perimeters under review after Vigar death",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report",
       "source": "The Guardian Football",
       "published": "Mon, 16 Nov 2026 21:53:32 GMT"
+    },
+    {
+      "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
+      "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 22:33:26 GMT"
+    },
+    {
+      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 23:01:52 GMT"
+    },
+    {
+      "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
+      "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
+      "source": "The Guardian Football",
+      "published": "Sun, 15 Nov 2026 08:00:09 GMT"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
     }
   ]
 }
