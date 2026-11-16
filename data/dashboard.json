@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T20:04:18.167271+00:00",
+  "last_updated": "2026-11-16T20:57:36.387180+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 06:47:10 GMT"
-    },
-    {
-      "title": "Who am I? Guess WSL star No 12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 07:01:31 GMT"
-    },
     {
       "title": "How Spain's humble superstar Simon became world's best keeper",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
@@ -645,7 +633,7 @@
       "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
       "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 19:58:07 GMT"
+      "published": "Mon, 16 Nov 2026 20:42:57 GMT"
     },
     {
       "title": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
       "source": "The Guardian Football",
       "published": "Mon, 16 Nov 2026 19:00:51 GMT"
+    },
+    {
+      "title": "BBC Women's Football Weekly",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 19:58:00 GMT"
+    },
+    {
+      "title": "Tuchel and England must learn lessons of history, Seville and Southgateism | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 20:02:09 GMT"
     }
   ]
 }
