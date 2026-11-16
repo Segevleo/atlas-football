@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T19:04:39.282151+00:00",
+  "last_updated": "2026-11-16T20:04:18.167271+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Respect? Exposure? Why England's star names are going abroad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 06:25:41 GMT"
-    },
     {
       "title": "Who am I? Plus today's other quizzes",
       "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
@@ -498,10 +492,10 @@
       "published": "Mon, 16 Nov 2026 13:01:41 GMT"
     },
     {
-      "title": "Cap fits as Robertson takes King Kenny's crown",
+      "title": "Robertson eclipses Dalglish to become Scotland's most capped man",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 18:50:18 GMT"
+      "published": "Mon, 16 Nov 2026 19:43:33 GMT"
     },
     {
       "title": "Belgium's Lukaku retires from internationals",
@@ -651,7 +645,7 @@
       "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
       "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 18:58:56 GMT"
+      "published": "Mon, 16 Nov 2026 19:58:07 GMT"
     },
     {
       "title": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
       "source": "The Guardian Football",
       "published": "Mon, 16 Nov 2026 17:48:38 GMT"
+    },
+    {
+      "title": "‘We want to win it’: Tuchel says Nations League can set England up for Euro 2028 glory",
+      "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 19:00:51 GMT"
     }
   ]
 }
