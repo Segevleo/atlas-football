@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T15:14:46.187074+00:00",
+  "last_updated": "2026-11-16T16:49:53.550678+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,48 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 20:43:57 GMT"
-    },
-    {
-      "title": "What Wales need to stay in Nations League top tier",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 20:52:48 GMT"
-    },
-    {
-      "title": "Spurs held to a draw by Everton in the WSL",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 20:56:46 GMT"
-    },
-    {
-      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-      "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 20:30:00 GMT"
-    },
-    {
-      "title": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
-      "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
-      "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 20:33:50 GMT"
-    },
-    {
-      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 21:48:45 GMT"
-    },
-    {
-      "title": "Devlin nets winner as NI top Nations League group",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 22:38:02 GMT"
-    },
     {
       "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
       "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
@@ -561,13 +519,13 @@
       "title": "Klopp says Infantino worse than Blatter",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 11:27:08 GMT"
+      "published": "Mon, 16 Nov 2026 15:54:36 GMT"
     },
     {
-      "title": "French football head Philippe Diallo is shock contender to fight Infantino for Fifa job",
+      "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
       "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
       "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 11:20:03 GMT"
+      "published": "Mon, 16 Nov 2026 15:27:30 GMT"
     },
     {
       "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
@@ -664,6 +622,48 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/16/england-hang-on-to-end-spains-unbeaten-reign-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Mon, 16 Nov 2026 12:56:01 GMT"
+    },
+    {
+      "title": "How Frank can restore reputation and save Crystal Palace",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 15:15:57 GMT"
+    },
+    {
+      "title": "Wales without injured Williams for Portugal game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 15:55:16 GMT"
+    },
+    {
+      "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
+      "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 16:14:29 GMT"
+    },
+    {
+      "title": "‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check",
+      "url": "https://www.theguardian.com/football/2026/nov/16/nwsl-playoffs-gotham-icahn-stadium-controversy",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 15:56:55 GMT"
+    },
+    {
+      "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 19:13:43 GMT"
+    },
+    {
+      "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+      "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 22:23:39 GMT"
+    },
+    {
+      "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 20:00:53 GMT"
     }
   ]
 }
