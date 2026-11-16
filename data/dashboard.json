@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T09:49:00.512121+00:00",
+  "last_updated": "2026-11-16T11:31:49.433938+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Chelsea go top with 1-0 win against Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 15:50:34 GMT"
-    },
-    {
-      "title": "'I just play where the manager tells me to play!' - Walsh",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 16:17:49 GMT"
-    },
-    {
-      "title": "Chelsea play out goalless draw with Hacken",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 10 Nov 2026 20:07:12 GMT"
-    },
-    {
-      "title": "Norway v Wales: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-      "source": "The Guardian Football",
-      "published": "Sat, 14 Nov 2026 18:45:08 GMT"
-    },
     {
       "title": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
       "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "Klopp says Infantino worse than Blatter",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 11:27:08 GMT"
+    },
+    {
+      "title": "French football head Philippe Diallo is shock contender to fight Infantino for Fifa job",
+      "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 11:20:03 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 14:06:37 GMT"
+    },
+    {
+      "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+      "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+      "source": "The Guardian Football",
+      "published": "Sat, 14 Nov 2026 13:07:33 GMT"
     }
   ]
 }
