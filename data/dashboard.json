@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T18:09:39.521804+00:00",
+  "last_updated": "2026-11-16T19:04:39.282151+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Liverpool put three past Brighton to end winless run",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 14 Nov 2026 23:00:29 GMT"
-    },
-    {
-      "title": "Fernandes rejects second Man Utd contract offer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 09:55:01 GMT"
-    },
-    {
-      "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
-      "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
-      "source": "The Guardian Football",
-      "published": "Fri, 13 Nov 2026 08:00:12 GMT"
-    },
-    {
-      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 13 Nov 2026 12:09:48 GMT"
-    },
     {
       "title": "Respect? Exposure? Why England's star names are going abroad",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
@@ -522,10 +498,10 @@
       "published": "Mon, 16 Nov 2026 13:01:41 GMT"
     },
     {
-      "title": "Cap fits as Robertson poised to take King Kenny's crown",
+      "title": "Cap fits as Robertson takes King Kenny's crown",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 12:18:45 GMT"
+      "published": "Mon, 16 Nov 2026 18:50:18 GMT"
     },
     {
       "title": "Belgium's Lukaku retires from internationals",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
       "source": "The Guardian Football",
       "published": "Thu, 03 Sep 2026 09:00:49 GMT"
+    },
+    {
+      "title": "Watch: Monday Night Club",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 21:00:00 GMT"
+    },
+    {
+      "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 18:58:56 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
+      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 18:29:04 GMT"
+    },
+    {
+      "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
+      "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 17:48:38 GMT"
     }
   ]
 }
