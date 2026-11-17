@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T21:04:16.315579+00:00",
+  "last_updated": "2026-11-17T22:00:48.668091+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "What's at the top of Frick's Aberdeen to-do list?",
-      "url": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 11:15:40 GMT"
-    },
-    {
-      "title": "Lye, Peterborough and the never-ending Women's FA Cup tie",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 12:11:48 GMT"
-    },
-    {
-      "title": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 12:15:46 GMT"
-    },
     {
       "title": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
       "url": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 20:00:20 GMT"
+    },
+    {
+      "title": "Rangers great Brand dies aged 89",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 21:02:57 GMT"
+    },
+    {
+      "title": "Highlights: Ten-man Portugal beat Wales to top group",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 21:56:04 GMT"
+    },
+    {
+      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
+      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 21:46:16 GMT"
     }
   ]
 }
