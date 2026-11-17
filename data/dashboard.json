@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T23:01:47.330290+00:00",
+  "last_updated": "2026-11-17T23:56:44.002517+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
-      "url": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 12:30:57 GMT"
-    },
-    {
-      "title": "Republic of Ireland have plenty of promise, but are unable to shake self-sabotage",
-      "url": "https://www.theguardian.com/football/2026/nov/16/republic-of-ireland-heimir-hallgrimsson-nations-league-kosovo",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 11:30:56 GMT"
-    },
     {
       "title": "Beckham firm sues after fragrance found for sale in discount store",
       "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
@@ -664,6 +652,18 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 17 Nov 2026 22:25:16 GMT"
+    },
+    {
+      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 23:10:33 GMT"
+    },
+    {
+      "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
+      "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 23:35:42 GMT"
     }
   ]
 }
