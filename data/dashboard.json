@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T09:12:30.826269+00:00",
+  "last_updated": "2026-11-17T10:18:12.625237+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Aston Villa beat Birmingham in WSL derby",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 19:47:37 GMT"
-    },
-    {
-      "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
-      "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 18:53:08 GMT"
-    },
-    {
-      "title": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
-      "url": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 19:20:08 GMT"
-    },
-    {
-      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
-      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 19:29:41 GMT"
-    },
     {
       "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
       "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/17/azteca-argentina-fearless-england-start-afresh-spain",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 08:00:08 GMT"
+    },
+    {
+      "title": "Pochettino says he would tell Guardiola to take USA job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 09:48:24 GMT"
+    },
+    {
+      "title": "'Switzerland didn't have better players but were better team'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 09:09:24 GMT"
+    },
+    {
+      "title": "Struggling Charlton make WSL history after defeat at West Ham",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 19:43:57 GMT"
+    },
+    {
+      "title": "Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player",
+      "url": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 09:19:34 GMT"
     }
   ]
 }
