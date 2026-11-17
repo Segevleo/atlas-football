@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T16:04:32.342192+00:00",
+  "last_updated": "2026-11-17T17:13:20.888508+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Homophobia on the rise in football - what is your club doing about it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 07:26:27 GMT"
-    },
-    {
-      "title": "How promotion, relegation and knockouts work in Nations League",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 09:46:34 GMT"
-    },
-    {
-      "title": "More than F1 - Monza's captivating football story",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 08:31:05 GMT"
-    },
     {
       "title": "Every goal from the Women's Super League - matchweek 10",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 15:00:16 GMT"
+    },
+    {
+      "title": "Senegal become first side to book Afcon 2027 spot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 16:18:05 GMT"
+    },
+    {
+      "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
+      "url": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 16:03:15 GMT"
+    },
+    {
+      "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+      "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 15:23:15 GMT"
     }
   ]
 }
