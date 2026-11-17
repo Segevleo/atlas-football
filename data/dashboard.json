@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T11:58:35.130812+00:00",
+  "last_updated": "2026-11-17T13:20:11.609913+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,54 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": "The Guardian Football",
-      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
-    },
-    {
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 23:16:00 GMT"
-    },
-    {
-      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
-    },
-    {
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": "The Guardian Football",
-      "published": "Mon, 15 May 2017 11:00:43 GMT"
-    },
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
-    {
-      "title": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
-      "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 23:03:38 GMT"
-    },
-    {
-      "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
-      "url": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
-      "source": "The Guardian Football",
-      "published": "Thu, 12 Nov 2026 11:00:48 GMT"
-    },
-    {
-      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 15 Nov 2026 23:52:43 GMT"
-    },
     {
       "title": "How did England cling on against Spain and what did Tuchel do differently?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
@@ -441,7 +393,7 @@
       "title": "Swansea in fight to keep Matos amid Strasbourg interest",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 11:09:49 GMT"
+      "published": "Tue, 17 Nov 2026 13:04:18 GMT"
     },
     {
       "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
@@ -618,7 +570,7 @@
       "published": "Tue, 17 Nov 2026 09:19:34 GMT"
     },
     {
-      "title": "Blackburn boss Mowbray steps down over health issues",
+      "title": "Blackburn boss Mowbray steps back over health issues",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 17 Nov 2026 10:40:41 GMT"
@@ -664,6 +616,54 @@
       "url": "https://www.theguardian.com/football/2026/nov/17/blackburn-rovers-tony-mowbray-steps-down-due-to-health-issues",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 10:19:13 GMT"
+    },
+    {
+      "title": "Romario demands Ancelotti sacking as war of words continues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 13:10:58 GMT"
+    },
+    {
+      "title": "Hincapie in advanced talks over new Arsenal deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 13:09:23 GMT"
+    },
+    {
+      "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 12:56:27 GMT"
+    },
+    {
+      "title": "Watch: Can Northern Ireland hit the right notes in Budapest?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 12:40:23 GMT"
+    },
+    {
+      "title": "London City earn point in thrilling draw against Arsenal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 15 Nov 2026 22:06:41 GMT"
+    },
+    {
+      "title": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’",
+      "url": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 11:57:35 GMT"
+    },
+    {
+      "title": "Wiegman cites young talent as key to new England deal after calling up Goodwin",
+      "url": "https://www.theguardian.com/football/2026/nov/17/sarina-wiegman-england-young-talent-contract-isobel-goodwin-squad",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 13:09:09 GMT"
+    },
+    {
+      "title": "Ultimate 1-50: the male footballers best associated with each squad number",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+      "source": "The Guardian Football",
+      "published": "Tue, 10 Nov 2026 06:00:30 GMT"
     }
   ]
 }
