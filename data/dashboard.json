@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T19:11:52.770688+00:00",
+  "last_updated": "2026-11-17T20:14:19.426628+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Has Trafford replaced Pickford as England No 1?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 13:01:41 GMT"
-    },
-    {
-      "title": "Robertson eclipses Dalglish to become Scotland's most capped man",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 19:43:33 GMT"
-    },
-    {
-      "title": "Belgium's Lukaku retires from internationals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 11:40:20 GMT"
-    },
-    {
-      "title": "Republic of Ireland captain Collins to miss Kosovo game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 12:02:07 GMT"
-    },
     {
       "title": "Vinicius says transfer interest affected Real form",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
@@ -264,10 +240,10 @@
       "published": "Mon, 16 Nov 2026 21:08:06 GMT"
     },
     {
-      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "title": "Swansea boss Matos on brink of Strasbourg move",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 13:04:18 GMT"
+      "published": "Tue, 17 Nov 2026 16:52:59 GMT"
     },
     {
       "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
@@ -651,7 +627,7 @@
       "title": "Wales v Portugal: Nations League football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
       "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 18:54:43 GMT"
+      "published": "Tue, 17 Nov 2026 19:53:48 GMT"
     },
     {
       "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 19:35:06 GMT"
+    },
+    {
+      "title": "Millwall open disciplinary proceedings against Baker",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 20:00:52 GMT"
+    },
+    {
+      "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
+      "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 19:50:48 GMT"
+    },
+    {
+      "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
+      "url": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly",
+      "source": "The Guardian Football",
+      "published": "Tue, 17 Nov 2026 19:14:54 GMT"
     }
   ]
 }
