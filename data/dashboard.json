@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:00:48.668091+00:00",
+  "last_updated": "2026-11-17T23:01:47.330290+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
-      "url": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 12:49:11 GMT"
-    },
     {
       "title": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
       "url": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
@@ -546,10 +540,10 @@
       "published": "Tue, 17 Nov 2026 15:00:16 GMT"
     },
     {
-      "title": "Senegal become first side to book Afcon 2027 spot",
+      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 18:56:27 GMT"
+      "published": "Tue, 17 Nov 2026 22:54:51 GMT"
     },
     {
       "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
@@ -582,7 +576,7 @@
       "published": "Tue, 17 Nov 2026 17:18:18 GMT"
     },
     {
-      "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable | Ewan Murray",
+      "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
       "url": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 16:59:54 GMT"
@@ -660,10 +654,16 @@
       "published": "Tue, 17 Nov 2026 21:56:04 GMT"
     },
     {
-      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
+      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
       "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
       "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 21:46:16 GMT"
+      "published": "Tue, 17 Nov 2026 22:14:37 GMT"
+    },
+    {
+      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 22:25:16 GMT"
     }
   ]
 }
