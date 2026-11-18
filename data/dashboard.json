@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T16:10:45.873383+00:00",
+  "last_updated": "2026-11-18T17:16:01.721974+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Swansea boss Matos on brink of Strasbourg move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 16:52:59 GMT"
-    },
-    {
-      "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 22:36:26 GMT"
-    },
-    {
-      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 22:06:32 GMT"
-    },
-    {
-      "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 22:14:34 GMT"
-    },
     {
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
@@ -606,7 +582,7 @@
       "published": "Wed, 18 Nov 2026 10:12:46 GMT"
     },
     {
-      "title": "Fifa’s World Cup TV rights documents indicate hydration breaks will stay in 2030",
+      "title": "Fifa’s World Cup TV rights documents indicate hydration breaks to stay in 2030",
       "url": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents",
       "source": "The Guardian Football",
       "published": "Wed, 18 Nov 2026 09:29:03 GMT"
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
       "source": "The Guardian Football",
       "published": "Wed, 18 Nov 2026 15:16:44 GMT"
+    },
+    {
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 16:09:55 GMT"
+    },
+    {
+      "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 17:06:29 GMT"
+    },
+    {
+      "title": "72+: The EFL Podcast",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 16:15:00 GMT"
+    },
+    {
+      "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
+      "url": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 16:00:05 GMT"
     }
   ]
 }
