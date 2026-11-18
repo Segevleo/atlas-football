@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T09:14:17.526109+00:00",
+  "last_updated": "2026-11-18T10:18:44.118019+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
-      "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 17:03:14 GMT"
-    },
-    {
-      "title": "Football Daily | England’s Nations League triumph in Spain sparks familiar rush to glory",
-      "url": "https://www.theguardian.com/football/2026/nov/16/england-spain-nations-league-victory-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 16:20:21 GMT"
-    },
     {
       "title": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
       "source": "The Guardian Football",
       "published": "Wed, 18 Nov 2026 08:00:36 GMT"
+    },
+    {
+      "title": "Former Spain midfielder Mata retires aged 38",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 10:12:46 GMT"
+    },
+    {
+      "title": "Fifa’s World Cup TV rights documents indicate hydration breaks will stay in 2030",
+      "url": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 09:29:03 GMT"
     }
   ]
 }
