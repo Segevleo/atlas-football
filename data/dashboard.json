@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T22:59:56.587962+00:00",
+  "last_updated": "2026-11-18T23:57:39.150344+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'Switzerland didn't have better players but were better team'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 09:09:24 GMT"
-    },
     {
       "title": "Struggling Charlton make WSL history after defeat at West Ham",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/17/listener-mailbag-manchester-city-media-coverage-and-making-gravy-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 06:26:12 GMT"
+    },
+    {
+      "title": "Manchester United’s infamous 1974 relegation is a warning from history",
+      "url": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 22:30:10 GMT"
     }
   ]
 }
