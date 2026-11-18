@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T18:06:02.146537+00:00",
+  "last_updated": "2026-11-18T19:05:58.234783+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
-      "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 22:33:26 GMT"
-    },
-    {
-      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
-      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 23:01:52 GMT"
-    },
-    {
-      "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
-      "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
-      "source": "The Guardian Football",
-      "published": "Sun, 15 Nov 2026 08:00:09 GMT"
-    },
     {
       "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Mon, 16 Nov 2026 22:14:34 GMT"
+    },
+    {
+      "title": "Chelsea v Paris Saint-Germain: Women’s Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/18/chelsea-v-paris-saint-germain-psg-womens-champions-league-live-score-updates",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 18:52:20 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+      "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 18:00:04 GMT"
+    },
+    {
+      "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+      "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 18:44:26 GMT"
     }
   ]
 }
