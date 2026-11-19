@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T22:57:01.221986+00:00",
+  "last_updated": "2026-11-19T23:53:22.152185+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 23:37:45 GMT"
-    },
     {
       "title": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
       "url": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 22:05:36 GMT"
+    },
+    {
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 22:56:07 GMT"
     }
   ]
 }
