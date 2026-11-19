@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T13:27:44.961416+00:00",
+  "last_updated": "2026-11-19T15:06:20.280100+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
-    {
-      "title": "FA wants to host Nations League finals in England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 15:51:30 GMT"
-    },
-    {
-      "title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
-      "url": "https://www.theguardian.com/football/2026/nov/17/peter-storey-arsenal-england-dies-aged-81",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 15:46:45 GMT"
-    },
-    {
-      "title": "Wayne Rooney says he contemplated taking own life during playing career",
-      "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 17:13:23 GMT"
-    },
-    {
-      "title": "Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 15:00:16 GMT"
-    },
     {
       "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
@@ -579,7 +549,7 @@
       "title": "Five return for Wales' World Cup play-off final",
       "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 10:00:07 GMT"
+      "published": "Thu, 19 Nov 2026 13:40:43 GMT"
     },
     {
       "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 13:18:36 GMT"
+    },
+    {
+      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 13:29:42 GMT"
+    },
+    {
+      "title": "Will Pochettino fix Manchester United? Will Unwin is answering your questions – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 14:46:01 GMT"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": "The Guardian Football",
+      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
+    },
+    {
+      "title": "Sign up for the Recap newsletter: our free sport highlights email",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": "The Guardian Football",
+      "published": "Mon, 15 May 2017 11:00:43 GMT"
     }
   ]
 }
