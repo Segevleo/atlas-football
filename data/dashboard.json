@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T16:11:10.222699+00:00",
+  "last_updated": "2026-11-19T17:16:37.789586+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 17:13:24 GMT"
-    },
-    {
-      "title": "‘I’m entering to win’: Philippe Diallo launches campaign to topple Gianni Infantino",
-      "url": "https://www.theguardian.com/football/2026/nov/17/im-entering-to-win-philippe-diallo-launches-campaign-to-topple-gianni-infantino",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 17:18:18 GMT"
-    },
-    {
-      "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
-      "url": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 16:59:54 GMT"
-    },
-    {
-      "title": "Danny Kelly obituary",
-      "url": "https://www.theguardian.com/media/2026/nov/17/danny-kelly-obituary",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 17:46:04 GMT"
-    },
-    {
-      "title": "Every goal from the Women's Super League - matchweek 10",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 16 Nov 2026 08:30:12 GMT"
-    },
     {
       "title": "Wales v Portugal: Nations League football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
       "source": "The Guardian Football",
       "published": "Tue, 17 Nov 2026 17:13:23 GMT"
+    },
+    {
+      "title": "Struggling Blackpool sack Evatt on his birthday",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 16:12:14 GMT"
+    },
+    {
+      "title": "Crawley keep Blackwell as boss until end of season",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 16:40:30 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 16:42:00 GMT"
+    },
+    {
+      "title": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
+      "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 15:42:09 GMT"
+    },
+    {
+      "title": "Premier League clubs vote to increase legal protection for executives",
+      "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 16:03:07 GMT"
     }
   ]
 }
