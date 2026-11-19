@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T20:14:30.771164+00:00",
+  "last_updated": "2026-11-19T21:03:50.332669+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Highlights: Ten-man Portugal beat Wales to top group",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 21:56:04 GMT"
-    },
-    {
-      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
-      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 22:14:37 GMT"
-    },
     {
       "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
@@ -633,7 +621,7 @@
       "title": "Arsenal v OL Lyonnes: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 20:09:02 GMT"
+      "published": "Thu, 19 Nov 2026 20:52:05 GMT"
     },
     {
       "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "Frank happy to be 'back in the circus' at Palace",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 20:16:10 GMT"
+    },
+    {
+      "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 20:44:11 GMT"
     }
   ]
 }
