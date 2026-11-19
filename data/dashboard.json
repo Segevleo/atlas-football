@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T18:08:02.358522+00:00",
+  "last_updated": "2026-11-19T19:09:56.328627+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
-      "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
-      "source": "The Guardian Football",
-      "published": "Mon, 16 Nov 2026 08:00:37 GMT"
-    },
-    {
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian Football",
-      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
-    },
-    {
-      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 19:35:06 GMT"
-    },
-    {
-      "title": "Millwall open disciplinary proceedings against Baker",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 20:00:52 GMT"
-    },
     {
       "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
       "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
@@ -664,6 +640,30 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Thu, 19 Nov 2026 17:11:51 GMT"
+    },
+    {
+      "title": "Pochettino's first Man Utd training session filmed by drone operator",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 18:45:56 GMT"
+    },
+    {
+      "title": "Sutton's predictions v world champion boxer Lauren Price",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 18:52:00 GMT"
+    },
+    {
+      "title": "Arsenal v OL Lyonnes: Women’s Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 18:50:41 GMT"
+    },
+    {
+      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 18:01:17 GMT"
     }
   ]
 }
