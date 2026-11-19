@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T17:16:37.789586+00:00",
+  "last_updated": "2026-11-19T18:08:02.358522+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Wales v Portugal: Nations League football – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 20:55:17 GMT"
-    },
     {
       "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
       "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
@@ -660,10 +654,16 @@
       "published": "Thu, 19 Nov 2026 15:42:09 GMT"
     },
     {
-      "title": "Premier League clubs vote to increase legal protection for executives",
+      "title": "Premier League clubs vote through new rules to increase legal protection for board",
       "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 16:03:07 GMT"
+    },
+    {
+      "title": "We'll only sell if offer makes club blink - McInnes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 17:11:51 GMT"
     }
   ]
 }
