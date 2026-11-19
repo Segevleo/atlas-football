@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T19:09:56.328627+00:00",
+  "last_updated": "2026-11-19T20:14:30.771164+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
-      "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 19:50:48 GMT"
-    },
-    {
-      "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
-      "url": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 19:14:54 GMT"
-    },
-    {
-      "title": "‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future",
-      "url": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
-      "source": "The Guardian Football",
-      "published": "Tue, 17 Nov 2026 20:00:20 GMT"
-    },
-    {
-      "title": "Rangers great Brand dies aged 89",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 21:02:57 GMT"
-    },
     {
       "title": "Highlights: Ten-man Portugal beat Wales to top group",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
@@ -657,13 +633,37 @@
       "title": "Arsenal v OL Lyonnes: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 18:50:41 GMT"
+      "published": "Thu, 19 Nov 2026 20:09:02 GMT"
     },
     {
       "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
       "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 18:01:17 GMT"
+    },
+    {
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 19:11:03 GMT"
+    },
+    {
+      "title": "New manager Frick to take Aberdeen back to basics",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 19:11:26 GMT"
+    },
+    {
+      "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+      "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 19:50:10 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
