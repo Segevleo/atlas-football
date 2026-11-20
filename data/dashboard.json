@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T21:56:45.781519+00:00",
+  "last_updated": "2026-11-20T22:56:40.412421+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Eight-year ban for player who threw rock that hit assistant referee",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 10:20:58 GMT"
-    },
-    {
-      "title": "How to follow the Premier League on the BBC this weekend",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 05 Nov 2026 12:14:33 GMT"
-    },
-    {
-      "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
-      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 10:56:21 GMT"
-    },
-    {
-      "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
-      "url": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 11:00:26 GMT"
-    },
     {
       "title": "Washington Spirit v Kansas City Current: where the NWSL Championship will be won and lost",
       "url": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
@@ -546,10 +522,10 @@
       "published": "Fri, 20 Nov 2026 16:32:26 GMT"
     },
     {
-      "title": "Premier League news: Grealish available again for Everton, Maresca hints at City tweaks",
+      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
       "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
       "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 16:24:12 GMT"
+      "published": "Fri, 20 Nov 2026 22:31:19 GMT"
     },
     {
       "title": "Pochettino’s fiery start, plus England v All Blacks and ATP Finals finale – follow with us",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
       "source": "The Guardian Football",
       "published": "Wed, 18 Nov 2026 12:01:00 GMT"
+    },
+    {
+      "title": "NFL great Brady could buy Chelsea stake",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 22:36:35 GMT"
+    },
+    {
+      "title": "Shevchenko lying about drugs test claims - Mudryk",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 21:54:17 GMT"
+    },
+    {
+      "title": "Lampard calls for fairness after Coventry penalty row",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 22:04:19 GMT"
+    },
+    {
+      "title": "Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw",
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 22:43:40 GMT"
     }
   ]
 }
