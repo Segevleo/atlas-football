@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T20:09:52.371814+00:00",
+  "last_updated": "2026-11-20T20:59:10.394184+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 07:14:11 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 07:06:18 GMT"
-    },
-    {
-      "title": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
-      "url": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 08:00:21 GMT"
-    },
-    {
-      "title": "The best European strikers this century - ranked by you",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 08:50:01 GMT"
-    },
-    {
-      "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 10:21:10 GMT"
-    },
     {
       "title": "Five return for Wales' World Cup play-off final",
       "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/20/nwsl-championship-final-ticket-prices-755-washington-spirit-kansas-city-current",
       "source": "The Guardian Football",
       "published": "Fri, 20 Nov 2026 19:06:18 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 16:53:00 GMT"
+    },
+    {
+      "title": "Washington Spirit provide hope and joy in a city that badly needs it",
+      "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 19:56:49 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+      "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
+      "source": "The Guardian Football",
+      "published": "Wed, 18 Nov 2026 18:00:04 GMT"
+    },
+    {
+      "title": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
+      "url": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 12:49:11 GMT"
+    },
+    {
+      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
+      "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
+      "source": "The Guardian Football",
+      "published": "Mon, 16 Nov 2026 14:00:19 GMT"
     }
   ]
 }
