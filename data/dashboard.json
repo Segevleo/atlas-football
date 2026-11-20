@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T19:10:56.994455+00:00",
+  "last_updated": "2026-11-20T20:09:52.371814+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Manchester United’s infamous 1974 relegation is a warning from history",
-      "url": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
-      "source": "The Guardian Football",
-      "published": "Wed, 18 Nov 2026 22:30:10 GMT"
-    },
-    {
-      "title": "Vote for the first BBC Men's Footballer of the Year",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 06:30:04 GMT"
-    },
-    {
-      "title": "How Premier League's big six keep getting richer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 07:38:22 GMT"
-    },
     {
       "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "source": "The Guardian Football",
       "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 20:06:51 GMT"
+    },
+    {
+      "title": "Buurman rescues late Chelsea win against PSG",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 22:13:49 GMT"
+    },
+    {
+      "title": "NWSL final tickets top $350 in ‘perfect storm’ even after fall from $755 peak",
+      "url": "https://www.theguardian.com/football/2026/nov/20/nwsl-championship-final-ticket-prices-755-washington-spirit-kansas-city-current",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 19:06:18 GMT"
     }
   ]
 }
