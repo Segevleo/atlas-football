@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T06:15:18.019384+00:00",
+  "last_updated": "2026-11-20T07:35:22.522430+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 18 Nov 2026 06:56:12 GMT"
-    },
-    {
-      "title": "Manchester won't always be blue - Pochettino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 18 Nov 2026 08:42:28 GMT"
-    },
-    {
-      "title": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
-      "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
-      "source": "The Guardian Football",
-      "published": "Wed, 18 Nov 2026 08:00:36 GMT"
-    },
-    {
-      "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
-      "url": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
-      "source": "The Guardian Football",
-      "published": "Wed, 18 Nov 2026 08:00:35 GMT"
-    },
-    {
-      "title": "Swing when you’re winning? Biggest leaps across Fifa’s football rankings | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
-      "source": "The Guardian Football",
-      "published": "Wed, 18 Nov 2026 08:00:36 GMT"
-    },
     {
       "title": "Former Spain midfielder Mata retires aged 38",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
       "source": "The Guardian Football",
       "published": "Thu, 03 Sep 2026 09:00:49 GMT"
+    },
+    {
+      "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 06:13:23 GMT"
+    },
+    {
+      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 07:26:36 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 06:43:38 GMT"
+    },
+    {
+      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 20 Nov 2026 07:08:51 GMT"
+    },
+    {
+      "title": "The male footballers best associated with each shirt number – the readers’ edition",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 06:00:24 GMT"
     }
   ]
 }
