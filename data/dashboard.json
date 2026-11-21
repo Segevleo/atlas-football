@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T21:50:58.685321+00:00",
+  "last_updated": "2026-11-21T22:50:48.835377+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 22:31:19 GMT"
-    },
     {
       "title": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
       "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
@@ -522,10 +516,10 @@
       "published": "Thu, 19 Nov 2026 22:56:07 GMT"
     },
     {
-      "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
+      "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
       "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 20:05:28 GMT"
+      "published": "Sat, 21 Nov 2026 22:20:19 GMT"
     },
     {
       "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
@@ -534,7 +528,7 @@
       "published": "Sat, 21 Nov 2026 20:25:53 GMT"
     },
     {
-      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 21 Nov 2026 19:21:01 GMT"
@@ -546,7 +540,7 @@
       "published": "Sat, 21 Nov 2026 19:04:09 GMT"
     },
     {
-      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 21 Nov 2026 19:29:48 GMT"
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west",
       "source": "The Guardian Football",
       "published": "Wed, 18 Nov 2026 12:00:59 GMT"
+    },
+    {
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 09:00:00 GMT"
     }
   ]
 }
