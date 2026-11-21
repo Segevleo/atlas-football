@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T10:56:14.656656+00:00",
+  "last_updated": "2026-11-21T11:53:17.556632+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": "The Guardian Football",
-      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
-    },
     {
       "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
       "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
@@ -642,10 +636,10 @@
       "published": "Sat, 21 Nov 2026 08:05:46 GMT"
     },
     {
-      "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
+      "title": "‘I’ll be back’: vows Kane after ankle surgery, Premier League resumes: football news – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 10:44:48 GMT"
+      "published": "Sat, 21 Nov 2026 11:44:37 GMT"
     },
     {
       "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
@@ -664,6 +658,12 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sat, 21 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Manchester City v Fulham: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 11:35:30 GMT"
     }
   ]
 }
