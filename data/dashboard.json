@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T18:57:27.044377+00:00",
+  "last_updated": "2026-11-21T19:54:04.666201+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 10:46:32 GMT"
-    },
-    {
-      "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
-      "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 11:00:29 GMT"
-    },
-    {
-      "title": "Southampton give head coach Eckert new deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 13:10:33 GMT"
-    },
-    {
-      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
-      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 13:00:29 GMT"
-    },
-    {
-      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
-      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 12:20:00 GMT"
-    },
     {
       "title": "Arteta warns Arsenal players over FPL team news leak",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
@@ -588,10 +558,10 @@
       "published": "Wed, 18 Nov 2026 09:33:42 GMT"
     },
     {
-      "title": "Noah Okafor piles on pain for Alonso as rampant Leeds demolish dismal Chelsea",
+      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
       "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 17:14:52 GMT"
+      "published": "Sat, 21 Nov 2026 19:20:51 GMT"
     },
     {
       "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
       "source": "The Guardian Football",
       "published": "Sat, 21 Nov 2026 17:47:21 GMT"
+    },
+    {
+      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 19:21:01 GMT"
+    },
+    {
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 19:04:09 GMT"
+    },
+    {
+      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 19:29:48 GMT"
+    },
+    {
+      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
+      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 19:47:11 GMT"
+    },
+    {
+      "title": "What history tells us about the Premier League table after 10 games of a season",
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 08:00:26 GMT"
     }
   ]
 }
