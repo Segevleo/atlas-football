@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T22:50:48.835377+00:00",
+  "last_updated": "2026-11-21T23:47:52.280435+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
-      "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 17:27:24 GMT"
-    },
-    {
-      "title": "Sarr focused on Palace return after Liverpool interest",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 18:41:33 GMT"
-    },
-    {
-      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 18 Nov 2026 20:25:40 GMT"
-    },
     {
       "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
       "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 22 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 23:14:10 GMT"
+    },
+    {
+      "title": "Washington Spirit v Kansas City Current: NWSL Championship live updates",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 23:03:08 GMT"
+    },
+    {
+      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 22:31:19 GMT"
     }
   ]
 }
