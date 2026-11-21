@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T15:55:10.093438+00:00",
+  "last_updated": "2026-11-21T16:55:24.780295+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
-      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 18:01:17 GMT"
-    },
-    {
-      "title": "England fined for fans' anti-Catholic chants in Spain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 19:11:03 GMT"
-    },
-    {
-      "title": "New manager Frick to take Aberdeen back to basics",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 19:11:26 GMT"
-    },
     {
       "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
       "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
@@ -621,10 +603,10 @@
       "title": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 15:45:45 GMT"
+      "published": "Sat, 21 Nov 2026 16:49:14 GMT"
     },
     {
-      "title": "Elliot Anderson ends Manchester City’s losing run but boos greet Fulham draw",
+      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
       "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sat, 21 Nov 2026 14:34:03 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
       "source": "The Guardian Football",
       "published": "Sat, 21 Nov 2026 15:03:50 GMT"
+    },
+    {
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 16:07:19 GMT"
+    },
+    {
+      "title": "Sutton's predictions v world champion boxer Lauren Price",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 18:52:00 GMT"
+    },
+    {
+      "title": "Newcastle United v Arsenal: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 16:30:00 GMT"
     }
   ]
 }
