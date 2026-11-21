@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T09:56:12.062969+00:00",
+  "last_updated": "2026-11-21T10:56:14.656656+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘Should Manchester United fans be hoping for relegation?’ Will Unwin answered your questions",
-      "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 15:31:32 GMT"
-    },
     {
       "title": "Sign up for the Football Daily newsletter: our free football email",
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
@@ -651,7 +645,7 @@
       "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 09:37:35 GMT"
+      "published": "Sat, 21 Nov 2026 10:44:48 GMT"
     },
     {
       "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 13:18:36 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 10:00:00 GMT"
     }
   ]
 }
