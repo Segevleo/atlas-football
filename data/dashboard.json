@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T08:56:55.852319+00:00",
+  "last_updated": "2026-11-21T09:56:12.062969+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 13:29:42 GMT"
-    },
     {
       "title": "‘Should Manchester United fans be hoping for relegation?’ Will Unwin answered your questions",
       "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
@@ -657,13 +651,19 @@
       "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 08:36:10 GMT"
+      "published": "Sat, 21 Nov 2026 09:37:35 GMT"
     },
     {
       "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
       "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 12:16:42 GMT"
+    },
+    {
+      "title": "Scotland smashed by the Swiss and Mauricio Pochettino takes charge | Football Weekly – video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 13:18:36 GMT"
     }
   ]
 }
