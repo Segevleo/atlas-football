@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T13:06:00.919495+00:00",
+  "last_updated": "2026-11-21T14:08:01.420535+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": "The Guardian Football",
-      "published": "Mon, 15 May 2017 11:00:43 GMT"
-    },
-    {
-      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 15:05:21 GMT"
-    },
-    {
-      "title": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 16:00:06 GMT"
-    },
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
     {
       "title": "Wayne Rooney says he contemplated taking own life during playing career",
       "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
@@ -657,13 +633,37 @@
       "title": "Manchester City v Fulham: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 12:59:44 GMT"
+      "published": "Sat, 21 Nov 2026 13:59:45 GMT"
     },
     {
       "title": "Sign up for the Football Daily newsletter: our free football email",
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
       "source": "The Guardian Football",
       "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 13:29:40 GMT"
+    },
+    {
+      "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 16 Nov 2026 22:14:34 GMT"
+    },
+    {
+      "title": "Can Northern Ireland hit the right notes in Budapest?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 17 Nov 2026 12:40:23 GMT"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
     }
   ]
 }
