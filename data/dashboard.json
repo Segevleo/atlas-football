@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T16:55:24.780295+00:00",
+  "last_updated": "2026-11-21T17:52:15.652700+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,108 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
-      "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 19:50:10 GMT"
-    },
-    {
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian Football",
-      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
-    },
-    {
-      "title": "Frank happy to be 'back in the circus' at Palace",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 20:16:10 GMT"
-    },
-    {
-      "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 20:44:11 GMT"
-    },
-    {
-      "title": "Highlights: Ten-man Portugal beat Wales to top group",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 17 Nov 2026 21:56:04 GMT"
-    },
-    {
-      "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 21:57:22 GMT"
-    },
-    {
-      "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
-      "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 22:05:54 GMT"
-    },
-    {
-      "title": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
-      "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 22:05:36 GMT"
-    },
-    {
-      "title": "Lyon outclass Arsenal for Champions League win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 22:56:07 GMT"
-    },
-    {
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 23:57:54 GMT"
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 00:00:15 GMT"
-    },
-    {
-      "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 01:31:38 GMT"
-    },
-    {
-      "title": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
-      "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
-      "source": "The Guardian Football",
-      "published": "Thu, 03 Sep 2026 09:00:49 GMT"
-    },
-    {
-      "title": "'I felt like I was a ghost' - when players miss a season through injury",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 06:13:23 GMT"
-    },
-    {
-      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 07:26:36 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 06:43:38 GMT"
-    },
-    {
-      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 07:08:51 GMT"
-    },
     {
       "title": "The male footballers best associated with each shirt number – the readers’ edition",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
@@ -348,7 +246,7 @@
       "published": "Fri, 20 Nov 2026 22:31:19 GMT"
     },
     {
-      "title": "Pochettino’s fiery start, plus England v All Blacks and ATP Finals finale – follow with us",
+      "title": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
       "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
       "source": "The Guardian Football",
       "published": "Fri, 20 Nov 2026 17:27:24 GMT"
@@ -636,10 +534,10 @@
       "published": "Sat, 21 Nov 2026 15:34:35 GMT"
     },
     {
-      "title": "Championship roundup: Southampton get Larin lift as Norwich win five in a row",
+      "title": "Championship roundup: Middlesbrough hit top spot; 10-man Stoke go second",
       "url": "https://www.theguardian.com/football/2026/nov/21/championship-roundup-southampton-birmingham-middlesbrough-swansea",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 14:50:20 GMT"
+      "published": "Sat, 21 Nov 2026 17:37:09 GMT"
     },
     {
       "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
@@ -663,7 +561,109 @@
       "title": "Newcastle United v Arsenal: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 16:30:00 GMT"
+      "published": "Sat, 21 Nov 2026 17:49:01 GMT"
+    },
+    {
+      "title": "Fifpro criticises Bayern Munich for Musiala comments",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 17:43:44 GMT"
+    },
+    {
+      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 17:42:14 GMT"
+    },
+    {
+      "title": "Vote for the first BBC Men's Footballer of the Year",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 06:30:04 GMT"
+    },
+    {
+      "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 10:21:10 GMT"
+    },
+    {
+      "title": "How Premier League's big six keep getting richer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 07:38:22 GMT"
+    },
+    {
+      "title": "The best European strikers this century - ranked by you",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 08:50:01 GMT"
+    },
+    {
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 16:09:55 GMT"
+    },
+    {
+      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 06:27:11 GMT"
+    },
+    {
+      "title": "Manager ins and outs - 2026-27",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 16:45:46 GMT"
+    },
+    {
+      "title": "All done deals from September-November 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 17:54:30 GMT"
+    },
+    {
+      "title": "When is the Nations League quarter-final draw?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 18 Nov 2026 09:33:42 GMT"
+    },
+    {
+      "title": "Noah Okafor piles on pain for Alonso as rampant Leeds demolish dismal Chelsea",
+      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 17:14:52 GMT"
+    },
+    {
+      "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
+      "url": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 17:09:02 GMT"
+    },
+    {
+      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 16:58:31 GMT"
+    },
+    {
+      "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it eight wins in a row",
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 17:10:24 GMT"
+    },
+    {
+      "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
+      "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 17:32:34 GMT"
+    },
+    {
+      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 18:01:17 GMT"
     }
   ]
 }
