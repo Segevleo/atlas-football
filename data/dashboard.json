@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T10:54:34.155858+00:00",
+  "last_updated": "2026-11-22T11:52:36.581865+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-      "source": "The Guardian Football",
-      "published": "Wed, 18 Nov 2026 12:01:00 GMT"
-    },
     {
       "title": "NFL great Brady could buy Chelsea stake",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
@@ -633,7 +627,7 @@
       "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 10:44:30 GMT"
+      "published": "Sun, 22 Nov 2026 11:40:56 GMT"
     },
     {
       "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
       "source": "The Guardian Football",
       "published": "Sat, 21 Nov 2026 21:48:21 GMT"
+    },
+    {
+      "title": "Rochdale sack boss Watson after Northampton defeat",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 10:55:05 GMT"
     }
   ]
 }
