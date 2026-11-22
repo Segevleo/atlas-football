@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T01:18:16.336134+00:00",
+  "last_updated": "2026-11-22T02:57:55.913996+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 18:03:15 GMT"
-    },
     {
       "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
@@ -636,10 +630,10 @@
       "published": "Sat, 21 Nov 2026 23:14:10 GMT"
     },
     {
-      "title": "Washington Spirit v Kansas City Current: NWSL Championship – live buildup",
+      "title": "Washington Spirit v Kansas City Current: NWSL Championship – live updates",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
       "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 01:09:07 GMT"
+      "published": "Sun, 22 Nov 2026 02:54:37 GMT"
     },
     {
       "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
       "source": "The Guardian Football",
       "published": "Fri, 20 Nov 2026 17:27:24 GMT"
+    },
+    {
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 19:00:37 GMT"
     }
   ]
 }
