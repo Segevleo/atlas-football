@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T09:55:54.088761+00:00",
+  "last_updated": "2026-11-22T10:54:34.155858+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Watch: Inverness and Ayr play out goalless draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Fri, 20 Nov 2026 21:47:58 GMT"
-    },
     {
       "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
       "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
@@ -636,10 +630,10 @@
       "published": "Sun, 22 Nov 2026 08:41:20 GMT"
     },
     {
-      "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
+      "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 09:44:28 GMT"
+      "published": "Sun, 22 Nov 2026 10:44:30 GMT"
     },
     {
       "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
       "source": "The Guardian Football",
       "published": "Sun, 22 Nov 2026 03:55:43 GMT"
+    },
+    {
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 21:48:21 GMT"
     }
   ]
 }
