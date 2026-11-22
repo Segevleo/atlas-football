@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T23:47:52.280435+00:00",
+  "last_updated": "2026-11-22T01:18:16.336134+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
-      "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 19 Nov 2026 05:30:23 GMT"
-    },
-    {
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 19:00:37 GMT"
-    },
-    {
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 19:00:37 GMT"
-    },
     {
       "title": "Premier League team news: predicted lineups for the weekend action",
       "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-team-news-predicted-lineups-for-the-weekend-action",
@@ -654,16 +636,34 @@
       "published": "Sat, 21 Nov 2026 23:14:10 GMT"
     },
     {
-      "title": "Washington Spirit v Kansas City Current: NWSL Championship live updates",
+      "title": "Washington Spirit v Kansas City Current: NWSL Championship – live buildup",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
       "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 23:03:08 GMT"
+      "published": "Sun, 22 Nov 2026 01:09:07 GMT"
     },
     {
       "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
       "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
       "source": "The Guardian Football",
       "published": "Fri, 20 Nov 2026 22:31:19 GMT"
+    },
+    {
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 00:08:13 GMT"
+    },
+    {
+      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 00:13:01 GMT"
+    },
+    {
+      "title": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
+      "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
+      "source": "The Guardian Football",
+      "published": "Fri, 20 Nov 2026 17:27:24 GMT"
     }
   ]
 }
