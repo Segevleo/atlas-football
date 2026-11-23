@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T07:52:32.002172+00:00",
+  "last_updated": "2026-11-23T09:34:10.860629+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
-      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 20:25:53 GMT"
-    },
-    {
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:21:01 GMT"
-    },
-    {
-      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:04:09 GMT"
-    },
-    {
-      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:29:48 GMT"
-    },
-    {
-      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 19:47:11 GMT"
-    },
-    {
-      "title": "What history tells us about the Premier League table after 10 games of a season",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 08:00:26 GMT"
-    },
     {
       "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
       "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +628,42 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Mon, 23 Nov 2026 06:17:59 GMT"
+    },
+    {
+      "title": "Holloway sacked by Swindon after two seasons",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 08:44:53 GMT"
+    },
+    {
+      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 07:52:55 GMT"
+    },
+    {
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 08:55:36 GMT"
+    },
+    {
+      "title": "Three years on NI Women finally have friendlies again",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9q8vgqerlxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 08:06:02 GMT"
+    },
+    {
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "url": "https://www.theguardian.com/football/2026/nov/23/premier-league-10-talking-points-from-the-weekends-action",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 08:00:50 GMT"
+    },
+    {
+      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
+      "url": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 08:00:51 GMT"
     }
   ]
 }
