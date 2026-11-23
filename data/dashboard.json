@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T03:05:40.316387+00:00",
+  "last_updated": "2026-11-23T04:18:10.267775+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 18:32:27 GMT"
-    },
-    {
-      "title": "'It's a deserved defeat' - Glasner on  Bournemouth loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 18:16:48 GMT"
-    },
     {
       "title": "Lyon outclass Arsenal for Champions League win",
       "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Sat, 21 Nov 2026 17:10:24 GMT"
+    },
+    {
+      "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
+      "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 17:32:34 GMT"
+    },
+    {
+      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 18:01:17 GMT"
     }
   ]
 }
