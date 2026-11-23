@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T23:51:27.499834+00:00",
+  "last_updated": "2026-11-23T01:25:10.038041+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
-      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 19:20:51 GMT"
-    },
-    {
-      "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
-      "url": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 17:09:02 GMT"
-    },
-    {
-      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 16:58:31 GMT"
-    },
-    {
-      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 17:10:24 GMT"
-    },
     {
       "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
       "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
@@ -664,6 +640,30 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 22 Nov 2026 23:14:00 GMT"
+    },
+    {
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 23:59:59 GMT"
+    },
+    {
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sun, 22 Nov 2026 23:59:57 GMT"
+    },
+    {
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "source": "The Guardian Football",
+      "published": "Sun, 22 Nov 2026 21:31:03 GMT"
+    },
+    {
+      "title": "'We feel the pain': Pochettino on 4-0 defeat at  Liverpool to start Manchester United era – video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "source": "The Guardian Football",
+      "published": "Sun, 22 Nov 2026 23:33:33 GMT"
     }
   ]
 }
