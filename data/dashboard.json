@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T19:12:31.252589+00:00",
+  "last_updated": "2026-11-23T20:12:18.614723+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Hull City v Brighton: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 15:44:56 GMT"
-    },
     {
       "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
       "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
@@ -645,7 +639,7 @@
       "title": "Brentford v Everton: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 18:54:31 GMT"
+      "published": "Mon, 23 Nov 2026 19:59:16 GMT"
     },
     {
       "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
       "source": "The Guardian Football",
       "published": "Sun, 22 Nov 2026 08:00:22 GMT"
+    },
+    {
+      "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+      "source": "The Guardian Football",
+      "published": "Sun, 22 Nov 2026 11:33:54 GMT"
     }
   ]
 }
