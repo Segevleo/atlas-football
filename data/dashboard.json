@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T21:59:38.206522+00:00",
+  "last_updated": "2026-11-23T23:02:02.713576+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
-      "url": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 15:12:24 GMT"
-    },
-    {
-      "title": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
-      "url": "https://www.theguardian.com/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 15:00:29 GMT"
-    },
-    {
-      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 16:25:35 GMT"
-    },
-    {
-      "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 16:10:48 GMT"
-    },
     {
       "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
       "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
       "source": "The Guardian Football",
       "published": "Mon, 23 Nov 2026 21:02:10 GMT"
+    },
+    {
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:43:39 GMT"
+    },
+    {
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:31:27 GMT"
+    },
+    {
+      "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppk3nb?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 21:48:00 GMT"
+    },
+    {
+      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 22:09:41 GMT"
     }
   ]
 }
