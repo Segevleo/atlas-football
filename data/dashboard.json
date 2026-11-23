@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T20:59:57.858718+00:00",
+  "last_updated": "2026-11-23T21:59:38.206522+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
-      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 22:43:40 GMT"
-    },
-    {
-      "title": "PSG's Doue to have surgery on ruptured ACL",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 15:50:05 GMT"
-    },
-    {
-      "title": "Liverpool v Manchester United: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 17:43:16 GMT"
-    },
     {
       "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
       "url": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
@@ -639,7 +621,7 @@
       "title": "Brentford v Everton: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
       "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 20:44:52 GMT"
+      "published": "Mon, 23 Nov 2026 21:45:02 GMT"
     },
     {
       "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
       "source": "The Guardian Football",
       "published": "Sun, 22 Nov 2026 11:33:54 GMT"
+    },
+    {
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 21:05:23 GMT"
+    },
+    {
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 21:41:52 GMT"
+    },
+    {
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 21:02:10 GMT"
     }
   ]
 }
