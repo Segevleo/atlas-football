@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T23:02:02.713576+00:00",
+  "last_updated": "2026-11-23T23:58:09.229337+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
-      "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 06:00:52 GMT"
-    },
-    {
-      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 17:00:01 GMT"
-    },
-    {
-      "title": "Arsenal frustrations grow as winless home run continues",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 17:30:45 GMT"
-    },
-    {
-      "title": "Jakirovic full of praise for Tzolakis performance",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 17:18:07 GMT"
-    },
     {
       "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
       "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
       "source": "The Guardian Football",
       "published": "Mon, 23 Nov 2026 22:09:41 GMT"
+    },
+    {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 23:26:35 GMT"
+    },
+    {
+      "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 23:07:48 GMT"
+    },
+    {
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:54:51 GMT"
+    },
+    {
+      "title": "Andrews praises 'versatile' Lewis-Potter",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:59:14 GMT"
     }
   ]
 }
