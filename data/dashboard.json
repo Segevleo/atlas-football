@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T22:07:44.347848+00:00",
+  "last_updated": "2026-11-24T23:06:10.100485+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
-      "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 11:34:42 GMT"
-    },
-    {
-      "title": "Inside Fifa and US Soccer’s plan for 2031 World Cup: ‘the largest women’s sporting event in history’",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2031-womens-world-cup-projection-fifa-ussf",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 11:00:29 GMT"
-    },
-    {
-      "title": "WSL talking points: captain Spence inspires Spurs’ shock win at City and Lionesses impress",
-      "url": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 11:19:05 GMT"
-    },
-    {
-      "title": "Watford set to appoint former Romania boss Iordanescu",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 12:36:46 GMT"
-    },
     {
       "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
@@ -618,7 +594,7 @@
       "published": "Tue, 24 Nov 2026 20:51:44 GMT"
     },
     {
-      "title": "Gul swoops late for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
       "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
       "source": "The Guardian Football",
       "published": "Tue, 24 Nov 2026 20:03:50 GMT"
@@ -664,6 +640,30 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Sun, 22 Nov 2026 17:30:45 GMT"
+    },
+    {
+      "title": "Every goal from the Women's Super League - matchweek 11",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 09:34:52 GMT"
+    },
+    {
+      "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
+      "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 22:01:51 GMT"
+    },
+    {
+      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
+      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 22:01:50 GMT"
+    },
+    {
+      "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
+      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+      "source": "The Guardian Football",
+      "published": "Thu, 19 Nov 2026 12:16:42 GMT"
     }
   ]
 }
