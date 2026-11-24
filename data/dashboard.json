@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T23:06:10.100485+00:00",
+  "last_updated": "2026-11-24T23:56:37.002397+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 11:49:40 GMT"
-    },
-    {
-      "title": "Coventry beat Palace in Frank's first game after late own goal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:58:52 GMT"
-    },
-    {
-      "title": "Man City drop points to Fulham despite superb Anderson volley",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:59:08 GMT"
-    },
-    {
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sat, 21 Nov 2026 19:59:17 GMT"
-    },
     {
       "title": "Watch highlights of the weekend's SPFL action",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
       "source": "The Guardian Football",
       "published": "Thu, 19 Nov 2026 12:16:42 GMT"
+    },
+    {
+      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 23:17:42 GMT"
+    },
+    {
+      "title": "Arteta says Arsenal need more luck to kill off games",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 23:44:04 GMT"
+    },
+    {
+      "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
+      "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 22:44:08 GMT"
+    },
+    {
+      "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+      "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 11:34:42 GMT"
     }
   ]
 }
