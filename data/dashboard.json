@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T05:18:03.041823+00:00",
+  "last_updated": "2026-11-24T07:30:02.404834+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
-      "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 14:59:23 GMT"
-    },
-    {
-      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-      "source": "The Guardian Football",
-      "published": "Sun, 22 Nov 2026 22:20:43 GMT"
-    },
-    {
-      "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 12:16:42 GMT"
-    },
-    {
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 17:55:54 GMT"
-    },
-    {
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 18:28:51 GMT"
-    },
     {
       "title": "Spurs deny Man City top spot with statement win",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +634,36 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Mon, 23 Nov 2026 22:59:14 GMT"
+    },
+    {
+      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 06:16:53 GMT"
+    },
+    {
+      "title": "Two goals in 15 games - what's going on with Gyokeres?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 06:45:27 GMT"
+    },
+    {
+      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 06:57:16 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 06:42:40 GMT"
+    },
+    {
+      "title": "Euro Leagues",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnv96n?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 06:00:00 GMT"
     }
   ]
 }
