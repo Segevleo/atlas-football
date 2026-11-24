@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:23:29.278695+00:00",
+  "last_updated": "2026-11-24T18:00:38.789914+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 17:10:24 GMT"
-    },
-    {
-      "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
-      "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 17:32:34 GMT"
-    },
-    {
-      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
-      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-      "source": "The Guardian Football",
-      "published": "Thu, 19 Nov 2026 18:01:17 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 06:31:21 GMT"
-    },
-    {
-      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 06:17:59 GMT"
-    },
     {
       "title": "Holloway sacked by Swindon after two seasons",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
@@ -633,7 +603,7 @@
       "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 16:11:33 GMT"
+      "published": "Tue, 24 Nov 2026 17:16:09 GMT"
     },
     {
       "title": "Millwall face partial stadium closure after discriminatory chants",
@@ -654,16 +624,46 @@
       "published": "Tue, 24 Nov 2026 14:22:36 GMT"
     },
     {
-      "title": "Man Utd's Yoro has Anfield red card overturned",
+      "title": "Yoro red card overturned, but refs' chief Webb backs decision",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 16:16:58 GMT"
+      "published": "Tue, 24 Nov 2026 17:00:32 GMT"
     },
     {
       "title": "Defender Heaven open to leaving Man Utd",
       "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 24 Nov 2026 15:56:55 GMT"
+    },
+    {
+      "title": "Klopp advice and Iraola confidence boosts Wirtz",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 17:19:08 GMT"
+    },
+    {
+      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 16:34:18 GMT"
+    },
+    {
+      "title": "Williams-Barnett announces himself as Spurs star, then signs new deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 21 Nov 2026 19:21:01 GMT"
+    },
+    {
+      "title": "Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?",
+      "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 16:16:52 GMT"
+    },
+    {
+      "title": "2028 Copa América to be played in United States with six Concacaf teams",
+      "url": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 16:08:56 GMT"
     }
   ]
 }
