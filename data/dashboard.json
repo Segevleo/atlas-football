@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T18:00:38.789914+00:00",
+  "last_updated": "2026-11-24T19:09:56.351973+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Holloway sacked by Swindon after two seasons",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 08:44:53 GMT"
-    },
-    {
-      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 07:52:55 GMT"
-    },
     {
       "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +198,10 @@
       "published": "Mon, 23 Nov 2026 12:08:28 GMT"
     },
     {
-      "title": "Manchester United win appeal over Yoro’s one-match suspension after Anfield red card",
+      "title": "Manchester United win appeal over Yoro’s red card despite Webb backing decision",
       "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
       "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 15:49:02 GMT"
+      "published": "Tue, 24 Nov 2026 18:19:37 GMT"
     },
     {
       "title": "Emery insists no change of plan for Aston Villa despite Galatasaray surface",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
       "source": "The Guardian Football",
       "published": "Tue, 24 Nov 2026 16:08:56 GMT"
+    },
+    {
+      "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 19:00:24 GMT"
+    },
+    {
+      "title": "Arsenal v Borussia Dortmund: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 18:59:37 GMT"
     }
   ]
 }
