@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:01:52.795891+00:00",
+  "last_updated": "2026-11-24T12:07:35.722194+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,48 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Mar 2022 16:57:35 GMT"
-    },
-    {
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 19:59:35 GMT"
-    },
-    {
-      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 19:59:38 GMT"
-    },
-    {
-      "title": "Bundesliga",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 20:13:29 GMT"
-    },
-    {
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": "The Guardian Football",
-      "published": "Mon, 15 May 2017 11:00:43 GMT"
-    },
-    {
-      "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
-      "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
-      "source": "The Guardian Football",
-      "published": "Wed, 01 Oct 2025 11:00:23 GMT"
-    },
-    {
-      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 21:22:10 GMT"
-    },
     {
       "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +622,48 @@
       "url": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
       "source": "The Guardian Football",
       "published": "Tue, 24 Nov 2026 10:00:13 GMT"
+    },
+    {
+      "title": "Glens boss Ferguson apologises after seven-game ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 11:36:18 GMT"
+    },
+    {
+      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 11:31:27 GMT"
+    },
+    {
+      "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 11:03:14 GMT"
+    },
+    {
+      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 11:40:14 GMT"
+    },
+    {
+      "title": "UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup",
+      "url": "https://www.theguardian.com/football/2026/nov/24/uk-automatic-qualification-2035-womens-world-cup-england-northern-ireland-scotland-wales",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 11:00:43 GMT"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": "The Guardian Football",
+      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
+      "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published": "Sat, 21 Nov 2026 14:34:03 GMT"
     }
   ]
 }
