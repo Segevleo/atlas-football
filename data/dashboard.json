@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T13:35:28.107790+00:00",
+  "last_updated": "2026-11-25T15:18:27.745477+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 21:02:10 GMT"
-    },
-    {
-      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 22:43:39 GMT"
-    },
-    {
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 22:31:27 GMT"
-    },
-    {
-      "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ppk3nb?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 21:48:00 GMT"
-    },
-    {
-      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
-      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 22:09:41 GMT"
-    },
     {
       "title": "Who has made Troy's Premier League team of the week?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
@@ -621,7 +591,7 @@
       "title": "Sterling given suspended sentence for dangerous driving",
       "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 13:19:48 GMT"
+      "published": "Wed, 25 Nov 2026 13:57:12 GMT"
     },
     {
       "title": "Raheem Sterling - from national icon to suspended jail sentence",
@@ -636,7 +606,7 @@
       "published": "Wed, 25 Nov 2026 12:59:29 GMT"
     },
     {
-      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here",
+      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here | Osasu Obayiuwana",
       "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 12:41:11 GMT"
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "source": "The Guardian Football",
       "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 14:46:33 GMT"
+    },
+    {
+      "title": "Guardiola says next coaching role will be with a national team amid USA links",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 14:07:50 GMT"
+    },
+    {
+      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+      "source": "The Guardian Football",
+      "published": "Sun, 22 Nov 2026 08:00:21 GMT"
+    },
+    {
+      "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 14:38:54 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
