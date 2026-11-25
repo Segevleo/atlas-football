@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T06:07:29.157973+00:00",
+  "last_updated": "2026-11-25T07:34:10.410683+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
-      "url": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 14:19:24 GMT"
-    },
-    {
-      "title": "Raya to miss Dortmund game but injury 'not serious'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 15:23:09 GMT"
-    },
-    {
-      "title": "I've wanted to crawl under a rock and hide - Pressley",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 15:31:57 GMT"
-    },
     {
       "title": "IFA 'positive' over upgrades needed for World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
       "source": "The Guardian Football",
       "published": "Tue, 24 Nov 2026 21:51:31 GMT"
+    },
+    {
+      "title": "Are Manchester United this season's Tottenham?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 06:22:36 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 06:56:11 GMT"
+    },
+    {
+      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 13:18:20 GMT"
     }
   ]
 }
