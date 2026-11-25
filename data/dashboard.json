@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T04:17:37.650289+00:00",
+  "last_updated": "2026-11-25T06:07:29.157973+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
-      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 13:18:20 GMT"
-    },
     {
       "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
       "url": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
       "source": "The Guardian Football",
       "published": "Mon, 23 Nov 2026 12:08:28 GMT"
+    },
+    {
+      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "source": "The Guardian Football",
+      "published": "Tue, 24 Nov 2026 21:51:31 GMT"
     }
   ]
 }
