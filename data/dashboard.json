@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T11:07:53.279880+00:00",
+  "last_updated": "2026-11-25T12:13:03.430443+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
-      "url": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 17:49:56 GMT"
-    },
-    {
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "source": "The Guardian Football",
-      "published": "Fri, 20 Nov 2026 19:00:37 GMT"
-    },
-    {
-      "title": "Welcome to Manchester United, Mauricio | Football Weekly – video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/23/welcome-to-manchester-united-mauricio-football-weekly-video",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 13:36:29 GMT"
-    },
-    {
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
-    },
-    {
-      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "source": "The Guardian Football",
-      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
-    },
     {
       "title": "Transfer window verdict: how every Premier League club fared",
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
@@ -645,7 +615,7 @@
       "title": "Lincoln sack head coach duo Cohen and Shaw",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 11:04:32 GMT"
+      "published": "Wed, 25 Nov 2026 11:32:28 GMT"
     },
     {
       "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 10:00:12 GMT"
+    },
+    {
+      "title": "Watford appoint Iordanescu as head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 11:15:34 GMT"
+    },
+    {
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 10:11:34 GMT"
+    },
+    {
+      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 11:34:10 GMT"
+    },
+    {
+      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 12:00:26 GMT"
+    },
+    {
+      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 15:45:50 GMT"
     }
   ]
 }
