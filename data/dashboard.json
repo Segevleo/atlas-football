@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T21:06:16.599880+00:00",
+  "last_updated": "2026-11-25T22:05:53.421104+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Sat, 21 Nov 2026 14:34:03 GMT"
-    },
-    {
-      "title": "Palace docked points for using four sub windows in WSL win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 12:14:19 GMT"
-    },
-    {
-      "title": "Non-league player injured falling down badger hole",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 12:31:12 GMT"
-    },
-    {
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 19:59:35 GMT"
-    },
-    {
-      "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
-      "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 13:00:47 GMT"
-    },
     {
       "title": "The NWSL 2026 goals, players and nutmegs we won’t forget",
       "url": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
@@ -600,16 +570,16 @@
       "published": "Wed, 25 Nov 2026 18:35:00 GMT"
     },
     {
-      "title": "Sporting v Manchester United: Champions League – live",
+      "title": "Sporting 2-2 Manchester United: Champions League – live reaction",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
       "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 20:51:56 GMT"
+      "published": "Wed, 25 Nov 2026 22:01:34 GMT"
     },
     {
       "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
       "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 20:55:26 GMT"
+      "published": "Wed, 25 Nov 2026 22:00:18 GMT"
     },
     {
       "title": "Peter Storey obituary",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
       "source": "The Guardian Football",
       "published": "Tue, 24 Nov 2026 10:00:13 GMT"
+    },
+    {
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 21:27:35 GMT"
+    },
+    {
+      "title": "Ferguson's Glentoran reign hits early turbulence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 21:41:00 GMT"
+    },
+    {
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 21:17:34 GMT"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": "The Guardian Football",
+      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
+    },
+    {
+      "title": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
+      "url": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
+      "source": "The Guardian Football",
+      "published": "Mon, 23 Nov 2026 17:49:56 GMT"
     }
   ]
 }
