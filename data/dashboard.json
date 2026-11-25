@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T15:18:27.745477+00:00",
+  "last_updated": "2026-11-25T17:12:44.307225+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,48 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Who has made Troy's Premier League team of the week?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 23:26:35 GMT"
-    },
-    {
-      "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 23:07:48 GMT"
-    },
-    {
-      "title": "Moyes questions Tarkowski red in Brentford loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 22:54:51 GMT"
-    },
-    {
-      "title": "Andrews praises 'versatile' Lewis-Potter",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 22:59:14 GMT"
-    },
-    {
-      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 06:16:53 GMT"
-    },
-    {
-      "title": "Two goals in 15 games - what's going on with Gyokeres?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 06:45:27 GMT"
-    },
-    {
-      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 06:57:16 GMT"
-    },
     {
       "title": "Who am I? Plus today's other quizzes",
       "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +622,48 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
       "source": "The Guardian Football",
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
+    },
+    {
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 16:46:36 GMT"
+    },
+    {
+      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 16:28:10 GMT"
+    },
+    {
+      "title": "Leicester no longer for sale as owner looks to future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 16:19:45 GMT"
+    },
+    {
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:31:27 GMT"
+    },
+    {
+      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
+      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 15:36:32 GMT"
+    },
+    {
+      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
+      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 15:13:01 GMT"
+    },
+    {
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 15:13:10 GMT"
     }
   ]
 }
