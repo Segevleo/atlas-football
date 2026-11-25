@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:34:10.410683+00:00",
+  "last_updated": "2026-11-25T09:22:35.853364+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "IFA 'positive' over upgrades needed for World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 15:26:23 GMT"
-    },
-    {
-      "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 15:09:18 GMT"
-    },
-    {
-      "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
-      "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 15:13:56 GMT"
-    },
     {
       "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
       "source": "The Guardian Football",
       "published": "Mon, 23 Nov 2026 13:18:20 GMT"
+    },
+    {
+      "title": "How to unearth young stars, the Bayern Munich way",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 07:22:27 GMT"
+    },
+    {
+      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 08:00:10 GMT"
+    },
+    {
+      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 08:00:09 GMT"
     }
   ]
 }
