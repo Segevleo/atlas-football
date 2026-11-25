@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T17:12:44.307225+00:00",
+  "last_updated": "2026-11-25T17:57:07.949799+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 06:42:40 GMT"
-    },
-    {
-      "title": "Euro Leagues",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pnv96n?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 08:36:50 GMT"
-    },
-    {
-      "title": "Barnet forward Noel-Williams charged with rape",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 08:50:17 GMT"
-    },
-    {
-      "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
-      "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 08:00:10 GMT"
-    },
     {
       "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
       "url": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
@@ -600,7 +570,7 @@
       "published": "Wed, 25 Nov 2026 14:46:33 GMT"
     },
     {
-      "title": "Guardiola says next coaching role will be with a national team amid USA links",
+      "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
       "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 14:07:50 GMT"
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 15:13:10 GMT"
+    },
+    {
+      "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 17:32:30 GMT"
+    },
+    {
+      "title": "EFL Trophy holders Luton face Palace U21s in last 32",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 17:12:57 GMT"
+    },
+    {
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:54:51 GMT"
+    },
+    {
+      "title": "Andrews praises 'versatile' Lewis-Potter",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:59:14 GMT"
+    },
+    {
+      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
+      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 17:00:31 GMT"
     }
   ]
 }
