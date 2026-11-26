@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T12:10:49.931408+00:00",
+  "last_updated": "2026-11-26T13:31:51.058273+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 23:17:42 GMT"
-    },
-    {
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 23:44:04 GMT"
-    },
-    {
-      "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
-      "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 22:44:08 GMT"
-    },
-    {
-      "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
-      "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 11:34:42 GMT"
-    },
     {
       "title": "Bellingham plays down Zidane comparison after wonder goal",
       "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 11:00:32 GMT"
+    },
+    {
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 13:23:05 GMT"
+    },
+    {
+      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 12:00:34 GMT"
+    },
+    {
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 12:11:18 GMT"
+    },
+    {
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
+      "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 12:36:31 GMT"
     }
   ]
 }
