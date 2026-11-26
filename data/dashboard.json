@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T09:20:00.873568+00:00",
+  "last_updated": "2026-11-26T11:06:09.867719+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Arsenal frustrations grow as winless home run continues",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 17:30:45 GMT"
-    },
-    {
-      "title": "Every goal from the Women's Super League - matchweek 11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 09:34:52 GMT"
-    },
     {
       "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
       "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 08:00:50 GMT"
+    },
+    {
+      "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+      "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 10:19:16 GMT"
+    },
+    {
+      "title": "‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala",
+      "url": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 10:19:07 GMT"
     }
   ]
 }
