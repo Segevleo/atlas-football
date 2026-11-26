@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T13:31:51.058273+00:00",
+  "last_updated": "2026-11-26T15:13:54.534742+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 23:54:10 GMT"
-    },
-    {
-      "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 13:33:13 GMT"
-    },
-    {
-      "title": "Watch highlights of the weekend's SPFL action",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 08:14:17 GMT"
-    },
-    {
-      "title": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
-      "url": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 03:46:28 GMT"
-    },
-    {
-      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-      "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 12:08:28 GMT"
-    },
     {
       "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
       "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 12:36:31 GMT"
+    },
+    {
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 14:56:30 GMT"
+    },
+    {
+      "title": "The American manager with a maths degree making history in La Liga",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 13:49:20 GMT"
+    },
+    {
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 15:01:48 GMT"
+    },
+    {
+      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 15:00:39 GMT"
+    },
+    {
+      "title": "David Squires on … youth development and nightmare parents on the touchline",
+      "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 14:00:37 GMT"
     }
   ]
 }
