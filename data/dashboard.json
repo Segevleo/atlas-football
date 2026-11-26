@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T19:10:06.516087+00:00",
+  "last_updated": "2026-11-26T20:15:16.343178+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 11:32:28 GMT"
-    },
-    {
-      "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 10:09:10 GMT"
-    },
-    {
-      "title": "Wales and West Ham's Morgan suffers serious injury",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 10:38:44 GMT"
-    },
-    {
-      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
-      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 10:00:12 GMT"
-    },
-    {
-      "title": "Watford appoint Iordanescu as head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 11:15:34 GMT"
-    },
     {
       "title": "EA adds AI-generated John Motson to FC 27 video game",
       "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
@@ -663,7 +633,37 @@
       "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 18:55:55 GMT"
+      "published": "Thu, 26 Nov 2026 20:07:26 GMT"
+    },
+    {
+      "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 19:19:49 GMT"
+    },
+    {
+      "title": "Carsley eyes Euros history with England U21s after draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 19:35:17 GMT"
+    },
+    {
+      "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+      "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 20:00:44 GMT"
+    },
+    {
+      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 19:53:06 GMT"
+    },
+    {
+      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 18:45:44 GMT"
     }
   ]
 }
