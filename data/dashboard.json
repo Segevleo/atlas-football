@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T23:57:17.238821+00:00",
+  "last_updated": "2026-11-26T01:27:39.519036+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Man Utd target Collins - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Tue, 24 Nov 2026 20:51:44 GMT"
-    },
-    {
-      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
-      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 20:03:50 GMT"
-    },
     {
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
       "source": "The Guardian Football",
       "published": "Wed, 01 Oct 2025 11:00:23 GMT"
+    },
+    {
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 00:24:48 GMT"
+    },
+    {
+      "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 00:22:28 GMT"
     }
   ]
 }
