@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T07:32:44.972195+00:00",
+  "last_updated": "2026-11-26T09:20:00.873568+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 19:59:38 GMT"
-    },
-    {
-      "title": "Did Liverpool 'get lucky' with red card decision?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 23:59:59 GMT"
-    },
-    {
-      "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Sun, 22 Nov 2026 19:03:24 GMT"
-    },
     {
       "title": "Arsenal frustrations grow as winless home run continues",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
@@ -636,7 +618,7 @@
       "published": "Wed, 01 Oct 2025 11:00:23 GMT"
     },
     {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Thu, 26 Nov 2026 00:24:48 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Thu, 26 Nov 2026 06:53:51 GMT"
+    },
+    {
+      "title": "The Portuguese second-tier team hosting Celtic in Europe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 07:26:12 GMT"
+    },
+    {
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 09:00:56 GMT"
+    },
+    {
+      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
+      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 08:00:50 GMT"
     }
   ]
 }
