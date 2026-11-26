@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T16:18:27.747348+00:00",
+  "last_updated": "2026-11-26T17:59:54.931278+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,36 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 21:51:31 GMT"
-    },
-    {
-      "title": "Are Manchester United this season's Tottenham?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 06:22:36 GMT"
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 06:56:11 GMT"
-    },
-    {
-      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
-      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 13:18:20 GMT"
-    },
-    {
-      "title": "How to unearth young stars, the Bayern Munich way",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 07:22:27 GMT"
-    },
     {
       "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
       "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
@@ -462,7 +432,7 @@
       "published": "Wed, 25 Nov 2026 22:05:57 GMT"
     },
     {
-      "title": "Real Madrid put in five-star second half to win against PSV",
+      "title": "Sublime Bellingham strike lights up Real's rout of PSV",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Wed, 25 Nov 2026 22:05:45 GMT"
@@ -636,7 +606,7 @@
       "published": "Thu, 26 Nov 2026 12:36:31 GMT"
     },
     {
-      "title": "Lammens errors shine light on calamitous Man Utd defence",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Thu, 26 Nov 2026 14:56:30 GMT"
@@ -664,6 +634,36 @@
       "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 14:00:37 GMT"
+    },
+    {
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 17:12:45 GMT"
+    },
+    {
+      "title": "Fofana has apologised for interview - Alonso",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 16:47:47 GMT"
+    },
+    {
+      "title": "Last chance to vote for BBC Men's Footballer of the Year",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 19 Nov 2026 06:30:04 GMT"
+    },
+    {
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/m00352c4?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 17:25:00 GMT"
+    },
+    {
+      "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
+      "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 15:48:28 GMT"
     }
   ]
 }
