@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T21:07:27.151209+00:00",
+  "last_updated": "2026-11-26T22:04:25.224921+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
-      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 12:00:26 GMT"
-    },
     {
       "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
@@ -618,10 +612,10 @@
       "published": "Thu, 26 Nov 2026 18:00:31 GMT"
     },
     {
-      "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
+      "title": "Crystal Palace 2-1 Real Sociedad, Sunderland 1-1 Jagiellonia Bialystok, and more: Europa League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 20:51:33 GMT"
+      "published": "Thu, 26 Nov 2026 21:54:28 GMT"
     },
     {
       "title": "Referee being 'drunk' claims are 'entirely unfounded'",
@@ -645,7 +639,7 @@
       "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
       "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
       "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 19:53:06 GMT"
+      "published": "Thu, 26 Nov 2026 21:11:24 GMT"
     },
     {
       "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
@@ -660,10 +654,16 @@
       "published": "Thu, 26 Nov 2026 20:44:44 GMT"
     },
     {
-      "title": "Crowd trouble at Besiktas v Hapoel Be’er-Sheva leads to diplomatic incident",
+      "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
       "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 20:47:37 GMT"
+    },
+    {
+      "title": "Haaland considers Man City exit - Friday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 21:25:06 GMT"
     }
   ]
 }
