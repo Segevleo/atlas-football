@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T20:15:16.343178+00:00",
+  "last_updated": "2026-11-26T21:07:27.151209+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "EA adds AI-generated John Motson to FC 27 video game",
-      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 10:11:34 GMT"
-    },
-    {
-      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 11:34:10 GMT"
-    },
     {
       "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
       "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
@@ -633,7 +621,7 @@
       "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
       "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 20:07:26 GMT"
+      "published": "Thu, 26 Nov 2026 20:51:33 GMT"
     },
     {
       "title": "Referee being 'drunk' claims are 'entirely unfounded'",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 18:45:44 GMT"
+    },
+    {
+      "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakité",
+      "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 20:44:44 GMT"
+    },
+    {
+      "title": "Crowd trouble at Besiktas v Hapoel Be’er-Sheva leads to diplomatic incident",
+      "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 20:47:37 GMT"
     }
   ]
 }
