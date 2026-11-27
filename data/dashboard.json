@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T17:22:23.350111+00:00",
+  "last_updated": "2026-11-27T19:08:31.932412+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
-      "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 22:04:10 GMT"
-    },
-    {
-      "title": "'All coming together' - Isak repaying Liverpool faith",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 23:25:30 GMT"
-    },
-    {
-      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 23:38:42 GMT"
-    },
     {
       "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
@@ -630,7 +612,7 @@
       "published": "Wed, 25 Nov 2026 21:17:34 GMT"
     },
     {
-      "title": "Arsenal head coach Slegers leaves by mutual consent",
+      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 27 Nov 2026 16:14:34 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/sport/2026/nov/27/nations-championship-finale-merseyside-derby-and-qatar-gp-follow-with-us",
       "source": "The Guardian Football",
       "published": "Fri, 27 Nov 2026 16:29:04 GMT"
+    },
+    {
+      "title": "Emery praises Garnacho attitude after Villa selection snub",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 17:42:00 GMT"
+    },
+    {
+      "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+      "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 15:29:41 GMT"
+    },
+    {
+      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 10:00:12 GMT"
     }
   ]
 }
