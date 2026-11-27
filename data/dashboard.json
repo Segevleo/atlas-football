@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:31:59.283402+00:00",
+  "last_updated": "2026-11-27T09:20:29.070798+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
-      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 17:00:31 GMT"
-    },
-    {
-      "title": "Glasner criticises Forest players yet to learn English",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 18:32:55 GMT"
-    },
-    {
-      "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 18:35:00 GMT"
-    },
-    {
-      "title": "Sporting 2-2 Manchester United: Champions League – live reaction",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 22:01:34 GMT"
-    },
-    {
-      "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 22:00:18 GMT"
-    },
-    {
-      "title": "Peter Storey obituary",
-      "url": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 17:40:02 GMT"
-    },
     {
       "title": "Raheem Sterling’s rise and fall: a sign football is broken? - The Latest",
       "url": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
@@ -642,7 +606,7 @@
       "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     },
     {
-      "title": "Man City owners should be forced to sell, say rival club chiefs",
+      "title": "Man City owners should be forced to sell, say club chiefs",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 27 Nov 2026 06:38:14 GMT"
@@ -664,6 +628,42 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 27 Nov 2026 06:58:33 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 06:59:03 GMT"
+    },
+    {
+      "title": "Why Cambridgeshire derby could be season-defining",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 08:25:44 GMT"
+    },
+    {
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:54:51 GMT"
+    },
+    {
+      "title": "Andrews praises 'versatile' Lewis-Potter",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:59:14 GMT"
+    },
+    {
+      "title": "Levski fans in hospital after Marseille violence; Premier League news – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 09:11:26 GMT"
+    },
+    {
+      "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 08:00:57 GMT"
     }
   ]
 }
