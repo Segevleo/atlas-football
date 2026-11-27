@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:06:05.563338+00:00",
+  "last_updated": "2026-11-27T23:59:09.075376+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Not even making a 12-man bench - what next for Garnacho?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 26 Nov 2026 13:23:05 GMT"
-    },
-    {
-      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
-      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 12:00:34 GMT"
-    },
     {
       "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
       "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
       "source": "The Guardian Football",
       "published": "Wed, 01 Oct 2025 11:00:23 GMT"
+    },
+    {
+      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 22:58:49 GMT"
+    },
+    {
+      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
+      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 08:00:50 GMT"
     }
   ]
 }
