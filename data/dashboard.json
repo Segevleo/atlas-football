@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T19:08:31.932412+00:00",
+  "last_updated": "2026-11-27T20:08:27.182061+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 23:16:18 GMT"
-    },
     {
       "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
       "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 10:00:12 GMT"
+    },
+    {
+      "title": "Nottingham Forest v Chelsea: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 19:41:49 GMT"
     }
   ]
 }
