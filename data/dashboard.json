@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T15:07:35.832117+00:00",
+  "last_updated": "2026-11-27T16:15:11.588551+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,30 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Martinez secures Inter win against Stuttgart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 23:02:15 GMT"
-    },
-    {
-      "title": "Borussia Dortmund fight back to draw with Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:05:57 GMT"
-    },
-    {
-      "title": "Sublime Bellingham strike lights up Real's rout of PSV",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:05:45 GMT"
-    },
-    {
-      "title": "Blunt Villa beaten by late Galatasaray winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:05:53 GMT"
-    },
     {
       "title": "Cherki rescues point for Man City against Napoli",
       "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
@@ -549,7 +525,7 @@
       "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published": "Fri, 27 Nov 2026 14:47:01 GMT"
+      "published": "Fri, 27 Nov 2026 15:58:58 GMT"
     },
     {
       "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
@@ -627,7 +603,7 @@
       "title": "Man Utd trigger Fernandes' one-year contract extension",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Fri, 27 Nov 2026 14:37:07 GMT"
+      "published": "Fri, 27 Nov 2026 15:08:41 GMT"
     },
     {
       "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
@@ -664,6 +640,30 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 21:17:34 GMT"
+    },
+    {
+      "title": "Arsenal head coach Slegers leaves by mutual consent",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 16:14:34 GMT"
+    },
+    {
+      "title": "Spurs' Savio to miss festive fixtures after injury setback",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 16:05:30 GMT"
+    },
+    {
+      "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
+      "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 15:11:25 GMT"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": "The Guardian Football",
+      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
     }
   ]
 }
