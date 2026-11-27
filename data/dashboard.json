@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T11:01:58.962040+00:00",
+  "last_updated": "2026-11-27T12:06:02.122666+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
-      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 22:38:19 GMT"
-    },
-    {
-      "title": "Timothy Weah: ‘I don’t want to beg to be back in the national team’",
-      "url": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
-      "source": "The Guardian Football",
-      "published": "Tue, 24 Nov 2026 10:00:13 GMT"
-    },
     {
       "title": "Regulator chief 'has stomach' to face Man City",
       "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
@@ -618,10 +606,10 @@
       "published": "Mon, 23 Nov 2026 22:59:14 GMT"
     },
     {
-      "title": "Macron condemns Marseille violence after Levski fans hospitalised; Premier League latest – football live",
+      "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published": "Fri, 27 Nov 2026 10:46:53 GMT"
+      "published": "Fri, 27 Nov 2026 11:46:24 GMT"
     },
     {
       "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 17:00:31 GMT"
+    },
+    {
+      "title": "EFL preview: Happy Potters and the deathly Hammers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 11:03:43 GMT"
+    },
+    {
+      "title": "The youngest Premier League goalscorers this season",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Tue, 24 Nov 2026 09:10:34 GMT"
     }
   ]
 }
