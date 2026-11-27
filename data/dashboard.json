@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T13:27:28.607637+00:00",
+  "last_updated": "2026-11-27T15:07:35.832117+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,48 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": "The Guardian Football",
-      "published": "Mon, 14 Nov 2022 09:05:50 GMT"
-    },
-    {
-      "title": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
-      "url": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
-      "source": "The Guardian Football",
-      "published": "Mon, 23 Nov 2026 17:49:56 GMT"
-    },
-    {
-      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:32:51 GMT"
-    },
-    {
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:12:19 GMT"
-    },
-    {
-      "title": "Gordon stars in comfortable Barca win over Sabah",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:07:02 GMT"
-    },
-    {
-      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:24:57 GMT"
-    },
-    {
-      "title": "PSG held by Roma as in-form Malen scores again",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 22:27:14 GMT"
-    },
     {
       "title": "Martinez secures Inter win against Stuttgart",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
@@ -549,7 +507,7 @@
       "title": "What happens now for Bayern Munich and Musiala?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Fri, 27 Nov 2026 06:54:36 GMT"
+      "published": "Fri, 27 Nov 2026 15:03:12 GMT"
     },
     {
       "title": "What makes or breaks a high press?",
@@ -588,10 +546,10 @@
       "published": "Mon, 23 Nov 2026 22:59:14 GMT"
     },
     {
-      "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training – football live",
+      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published": "Fri, 27 Nov 2026 13:09:47 GMT"
+      "published": "Fri, 27 Nov 2026 14:47:01 GMT"
     },
     {
       "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
@@ -664,6 +622,48 @@
       "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
       "source": "The Guardian Football",
       "published": "Thu, 03 Sep 2026 09:00:49 GMT"
+    },
+    {
+      "title": "Man Utd trigger Fernandes' one-year contract extension",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 14:37:07 GMT"
+    },
+    {
+      "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 14:37:58 GMT"
+    },
+    {
+      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 14:37:51 GMT"
+    },
+    {
+      "title": "Iordanescu ready for Watford 'challenge'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 13:58:15 GMT"
+    },
+    {
+      "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 13:16:05 GMT"
+    },
+    {
+      "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
+      "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 13:58:00 GMT"
+    },
+    {
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 21:17:34 GMT"
     }
   ]
 }
