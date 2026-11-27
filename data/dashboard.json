@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T00:04:51.642002+00:00",
+  "last_updated": "2026-11-27T01:30:03.945885+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,42 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 14:38:54 GMT"
-    },
-    {
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian Football",
-      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
-    },
-    {
-      "title": "'Best midfielder in the world' - where does Bellingham rank?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 16:46:36 GMT"
-    },
-    {
-      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 16:28:10 GMT"
-    },
-    {
-      "title": "Leicester no longer for sale as owner looks to future",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 16:19:45 GMT"
-    },
-    {
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Mon, 23 Nov 2026 22:31:27 GMT"
-    },
     {
       "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
       "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
@@ -664,6 +628,42 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
       "source": "The Guardian Football",
       "published": "Wed, 25 Nov 2026 12:41:11 GMT"
+    },
+    {
+      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 00:18:44 GMT"
+    },
+    {
+      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Thu, 26 Nov 2026 23:59:43 GMT"
+    },
+    {
+      "title": "Premier League: 10 things to look out for this weekend",
+      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 00:00:48 GMT"
+    },
+    {
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "source": "The Guardian Football",
+      "published": "Wed, 25 Nov 2026 14:46:33 GMT"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 22 Sep 2026 08:59:39 GMT"
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": "The Guardian Football",
+      "published": "Tue, 01 Sep 2026 12:12:32 GMT"
     }
   ]
 }
