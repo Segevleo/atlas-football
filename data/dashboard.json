@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T12:06:02.122666+00:00",
+  "last_updated": "2026-11-27T13:27:28.607637+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Regulator chief 'has stomach' to face Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 21:27:35 GMT"
-    },
-    {
-      "title": "Ferguson's Glentoran reign hits early turbulence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Wed, 25 Nov 2026 21:41:00 GMT"
-    },
-    {
-      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
-      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 21:17:34 GMT"
-    },
     {
       "title": "Sign up for the Football Daily newsletter: our free football email",
       "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
@@ -606,10 +588,10 @@
       "published": "Mon, 23 Nov 2026 22:59:14 GMT"
     },
     {
-      "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
+      "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published": "Fri, 27 Nov 2026 11:46:24 GMT"
+      "published": "Fri, 27 Nov 2026 13:09:47 GMT"
     },
     {
       "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
@@ -654,7 +636,7 @@
       "published": "Wed, 25 Nov 2026 17:00:31 GMT"
     },
     {
-      "title": "EFL preview: Happy Potters and the deathly Hammers",
+      "title": "EFL preview: Happy Potters face struggling Hammers",
       "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Fri, 27 Nov 2026 11:03:43 GMT"
@@ -664,6 +646,24 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "Tue, 24 Nov 2026 09:10:34 GMT"
+    },
+    {
+      "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Fri, 27 Nov 2026 11:57:24 GMT"
+    },
+    {
+      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
+      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
+      "source": "The Guardian Football",
+      "published": "Fri, 27 Nov 2026 12:00:10 GMT"
+    },
+    {
+      "title": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
+      "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
+      "source": "The Guardian Football",
+      "published": "Thu, 03 Sep 2026 09:00:49 GMT"
     }
   ]
 }
