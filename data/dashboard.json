@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T01:30:03.945885+00:00",
+  "last_updated": "2026-11-27T03:08:58.779873+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
-      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 15:36:32 GMT"
-    },
-    {
-      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
-      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 15:13:01 GMT"
-    },
-    {
-      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-      "source": "The Guardian Football",
-      "published": "Wed, 25 Nov 2026 15:13:10 GMT"
-    },
     {
       "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "source": "The Guardian Football",
       "published": "Tue, 01 Sep 2026 12:12:32 GMT"
+    },
+    {
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Mon, 23 Nov 2026 22:31:27 GMT"
+    },
+    {
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Wed, 25 Nov 2026 16:46:36 GMT"
+    },
+    {
+      "title": "Transfer window verdict: how every Premier League club fared",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "source": "The Guardian Football",
+      "published": "Wed, 02 Sep 2026 08:30:27 GMT"
     }
   ]
 }
