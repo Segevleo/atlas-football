@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T14:58:59.342260+00:00",
+  "last_updated": "2026-11-28T15:56:37.171150+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 22:10:14 GMT"
-    },
-    {
-      "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
-      "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 22:27:37 GMT"
-    },
     {
       "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
       "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
@@ -663,7 +651,19 @@
       "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published": "Sat, 28 Nov 2026 14:36:43 GMT"
+      "published": "Sat, 28 Nov 2026 15:44:25 GMT"
+    },
+    {
+      "title": "Ashley Cole holds talks with Bristol Rovers for first management job in England",
+      "url": "https://www.theguardian.com/football/2026/nov/28/ashley-cole-bristol-rovers-manager-steve-evans-league-two",
+      "source": "The Guardian Football",
+      "published": "Sat, 28 Nov 2026 15:29:35 GMT"
+    },
+    {
+      "title": "Championship roundup: Norwich’s Clement sent off in bad-tempered Preston draw",
+      "url": "https://www.theguardian.com/football/2026/nov/28/championship-roundup-norwichs-clement-sent-off-in-bad-tempered-preston-draw",
+      "source": "The Guardian Football",
+      "published": "Sat, 28 Nov 2026 15:02:37 GMT"
     }
   ]
 }
