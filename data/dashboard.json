@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T05:11:21.364355+00:00",
+  "last_updated": "2026-11-28T06:10:04.989772+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "The American manager with a maths degree making history in La Liga",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 26 Nov 2026 13:49:20 GMT"
-    },
     {
       "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
       "source": "The Guardian Football",
       "published": "Sat, 28 Nov 2026 04:14:42 GMT"
+    },
+    {
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
+      "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 12:36:31 GMT"
     }
   ]
 }
