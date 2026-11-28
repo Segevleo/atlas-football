@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T09:59:41.591575+00:00",
+  "last_updated": "2026-11-28T10:58:14.606315+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
-      "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 20:00:44 GMT"
-    },
     {
       "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
       "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
@@ -357,7 +351,7 @@
       "title": "Man Utd trigger Fernandes' one-year contract extension",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published": "Fri, 27 Nov 2026 15:08:41 GMT"
+      "published": "Sat, 28 Nov 2026 10:28:36 GMT"
     },
     {
       "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
@@ -645,7 +639,7 @@
       "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
       "source": "The Guardian Football",
-      "published": "Sat, 28 Nov 2026 09:44:37 GMT"
+      "published": "Sat, 28 Nov 2026 10:38:47 GMT"
     },
     {
       "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 14:00:37 GMT"
+    },
+    {
+      "title": "How Cardiff are changing Swansea derby narrative",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 28 Nov 2026 10:07:52 GMT"
     }
   ]
 }
