@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:59:09.075376+00:00",
+  "last_updated": "2026-11-28T01:26:58.870563+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,12 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 12:11:18 GMT"
-    },
     {
       "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
       "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
@@ -664,6 +658,12 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 08:00:50 GMT"
+    },
+    {
+      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+      "source": "The Guardian Football",
+      "published": "Thu, 26 Nov 2026 12:00:34 GMT"
     }
   ]
 }
