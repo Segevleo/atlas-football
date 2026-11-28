@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T06:10:04.989772+00:00",
+  "last_updated": "2026-11-28T07:26:32.145963+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,24 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 26 Nov 2026 15:01:48 GMT"
-    },
-    {
-      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
-      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 15:00:39 GMT"
-    },
-    {
-      "title": "David Squires on … youth development and nightmare parents on the touchline",
-      "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 14:00:37 GMT"
-    },
     {
       "title": "Germany's Freigang given 16-month ban over drugs test issues",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +646,24 @@
       "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 12:36:31 GMT"
+    },
+    {
+      "title": "How a football team rebuilt after 19 players died in plane crash",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 28 Nov 2026 06:30:34 GMT"
+    },
+    {
+      "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 28 Nov 2026 06:54:09 GMT"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "Sat, 28 Nov 2026 07:04:56 GMT"
     }
   ]
 }
