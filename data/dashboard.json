@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T04:05:53.999132+00:00",
+  "last_updated": "2026-11-28T05:11:21.364355+00:00",
   "countries": [
     {
       "name": "England",
@@ -65,18 +65,6 @@
   "matches": [],
   "standings": [],
   "news": [
-    {
-      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
-      "url": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
-      "source": "The Guardian Football",
-      "published": "Thu, 26 Nov 2026 12:36:31 GMT"
-    },
-    {
-      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "Thu, 26 Nov 2026 14:56:30 GMT"
-    },
     {
       "title": "The American manager with a maths degree making history in La Liga",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
@@ -664,6 +652,18 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
       "source": "The Guardian Football",
       "published": "Thu, 26 Nov 2026 12:00:34 GMT"
+    },
+    {
+      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "source": "The Guardian Football",
+      "published": "Sat, 28 Nov 2026 03:53:14 GMT"
+    },
+    {
+      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "source": "The Guardian Football",
+      "published": "Sat, 28 Nov 2026 04:14:42 GMT"
     }
   ]
 }
